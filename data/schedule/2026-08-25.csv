@@ -28,4 +28,4 @@ date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,l
 2026-08-25,823098,2026-08-26T01:40:00Z,Pre-Game,PHI,SEA,0,605400,Aaron Nola,669923,George Kirby,
 2026-08-25,823098,2026-08-26T01:40:00Z,Pre-Game,SEA,PHI,1,669923,George Kirby,605400,Aaron Nola,1:Randy Arozarena(LF) | 2:Dominic Canzone(RF) | 3:Julio Rodríguez(CF) | 4:Josh Naylor(1B) | 5:Cal Raleigh(C) | 6:Cole Young(2B) | 7:Taylor Ward(DH) | 8:J.P. Crawford(3B) | 9:Brock Rodden(SS)
 2026-08-25,823181,2026-08-26T01:45:00Z,Pre-Game,CIN,SF,0,663903,Brady Singer,605288,Adrian Houser,1:Elly De La Cruz(SS) | 2:Sal Stewart(1B) | 3:JJ Bleday(LF) | 4:Tyler Stephenson(C) | 5:Eugenio Suárez(DH) | 6:Matt McLain(2B) | 7:Héctor Rodríguez(RF) | 8:Ke'Bryan Hayes(3B) | 9:TJ Friedl(CF)
-2026-08-25,823181,2026-08-26T01:45:00Z,Pre-Game,SF,CIN,1,605288,Adrian Houser,663903,Brady Singer,
+2026-08-25,823181,2026-08-26T01:45:00Z,Pre-Game,SF,CIN,1,605288,Adrian Houser,663903,Brady Singer,1:Drew Gilbert(CF) | 2:Rafael Devers(1B) | 3:Jung Hoo Lee(DH) | 4:Turner Hill(LF) | 5:Drew Cavanaugh(C) | 6:Nate Furman(2B) | 7:Shay Whitcomb(3B) | 8:Grant McCray(RF) | 9:Christian Koss(SS)
