@@ -5,8 +5,11 @@ from the MLB Stats API and write CSVs under data/. Runs inside GitHub Actions.
 Usage:  python scripts/pull_mlb.py                 -> box scores for yesterday (ET), schedule for today
         python scripts/pull_mlb.py 2026-08-24      -> box scores for that date (schedule for today)
         python scripts/pull_mlb.py 2026-08-20,2026-08-21,2026-08-22   -> several dates
+        python scripts/pull_mlb.py 2026-04-01:2026-04-30              -> a date range
+        python scripts/pull_mlb.py season                             -> whole current season to yesterday
+Dates whose CSV already exists are skipped (set FORCE=1 to re-pull).
 """
-import csv, json, os, sys, urllib.request
+import csv, json, os, sys, time, urllib.request
 from datetime import datetime, timedelta, timezone
 
 API = "https://statsapi.mlb.com/api/v1"
@@ -39,11 +42,12 @@ def pitcher_pts(p, won):
     return round(pts, 2), round(ip, 2), qs
 
 def pull_boxscores(date):
-    sched = get(f"{API}/schedule?sportId=1&date={date}")
+    sched = get(f"{API}/schedule?sportId=1&date={date}&gameType=R")
     games = [g for d in sched.get("dates", []) for g in d.get("games", [])]
     rows = []
     for g in games:
         pk = g["gamePk"]
+        time.sleep(0.15)
         try:
             feed = get(f"https://statsapi.mlb.com/api/v1.1/game/{pk}/feed/live")
         except Exception as e:
@@ -107,11 +111,29 @@ def write(path, rows):
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
     print(f"wrote {path}: {len(rows)} rows")
 
+def expand(arg, now):
+    """blank -> yesterday | date | date,date | start:end | season[:YYYY]"""
+    yday = (now - timedelta(days=1)).date()
+    if not arg: return [yday.isoformat()]
+    if arg.startswith("season"):
+        yr = int(arg.split(":")[1]) if ":" in arg else now.year
+        start = datetime(yr, 3, 15).date(); end = yday if yr == now.year else datetime(yr, 11, 5).date()
+        return [(start + timedelta(days=i)).isoformat() for i in range((end - start).days + 1)]
+    if ":" in arg:
+        a, b = [datetime.strptime(x.strip(), "%Y-%m-%d").date() for x in arg.split(":")]
+        return [(a + timedelta(days=i)).isoformat() for i in range((b - a).days + 1)]
+    return [x.strip() for x in arg.split(",") if x.strip()]
+
 if __name__ == "__main__":
     now = datetime.now(ET)
-    arg = (sys.argv[1] if len(sys.argv) > 1 else "").strip()
-    dates = [x.strip() for x in arg.split(",") if x.strip()] or [(now - timedelta(days=1)).strftime("%Y-%m-%d")]
+    dates = expand((sys.argv[1] if len(sys.argv) > 1 else "").strip(), now)
+    force = os.environ.get("FORCE") == "1"
     for d in dates:
-        write(f"data/boxscores/{d}.csv", pull_boxscores(d))
+        path = f"data/boxscores/{d}.csv"
+        if os.path.exists(path) and not force:
+            continue
+        rows = pull_boxscores(d)
+        if rows: write(path, rows)
+        else: print(f"{d}: no regular-season games")
     today = now.strftime("%Y-%m-%d")
     write(f"data/schedule/{today}.csv", pull_schedule(today))
