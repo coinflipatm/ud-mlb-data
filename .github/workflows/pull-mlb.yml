@@ -1,0 +1,28 @@
+name: pull-mlb
+on:
+  schedule:
+    - cron: "0 11 * * *"   # 7:00 AM ET: yesterday's box scores + today's probables
+    - cron: "0 22 * * *"   # 6:00 PM ET: refresh today's posted lineups
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Box scores for this date (YYYY-MM-DD, or a comma list). Blank = yesterday."
+        required: false
+        default: ""
+permissions:
+  contents: write
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/pull_mlb.py "${{ github.event.inputs.date }}"
+      - run: |
+          git config user.name "ud-bot"
+          git config user.email "ud-bot@users.noreply.github.com"
+          git add data
+          git commit -m "data $(date -u +%FT%H:%MZ)" || echo "nothing to commit"
+          git push
