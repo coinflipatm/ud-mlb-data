@@ -1,22 +1,22 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-08-26,824234,2026-08-26T17:10:00Z,Scheduled,TB,DET,0,642547,Freddy Peralta,675512,Troy Melton,
-2026-08-26,824234,2026-08-26T17:10:00Z,Scheduled,DET,TB,1,675512,Troy Melton,642547,Freddy Peralta,
+2026-08-26,824234,2026-08-26T17:10:00Z,Warmup,TB,DET,0,642547,Freddy Peralta,675512,Troy Melton,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Liam Hicks(C) | 5:Chandler Simpson(LF) | 6:Jonny DeLuca(RF) | 7:Richie Palacios(2B) | 8:Jorge Mateo(SS) | 9:Cedric Mullins(CF)
+2026-08-26,824234,2026-08-26T17:10:00Z,Warmup,DET,TB,1,675512,Troy Melton,642547,Freddy Peralta,1:Brett Callahan(LF) | 2:Kevin McGonigle(SS) | 3:Gleyber Torres(2B) | 4:Colt Keith(DH) | 5:Dillon Dingler(C) | 6:Zach McKinstry(RF) | 7:Spencer Torkelson(1B) | 8:Max Clark(CF) | 9:Hao-Yu Lee(3B)
 2026-08-26,825039,2026-08-26T19:40:00Z,Scheduled,CHC,AZ,0,571510,Matthew Boyd,593958,Eduardo Rodriguez,
 2026-08-26,825039,2026-08-26T19:40:00Z,Scheduled,AZ,CHC,1,593958,Eduardo Rodriguez,571510,Matthew Boyd,
-2026-08-26,823180,2026-08-26T19:45:00Z,Scheduled,CIN,SF,0,666157,Nick Lodolo,694738,Landen Roupp,
-2026-08-26,823180,2026-08-26T19:45:00Z,Scheduled,SF,CIN,1,694738,Landen Roupp,666157,Nick Lodolo,
+2026-08-26,823180,2026-08-26T19:45:00Z,Pre-Game,CIN,SF,0,666157,Nick Lodolo,657277,Logan Webb,1:Héctor Rodríguez(RF) | 2:Elly De La Cruz(SS) | 3:Sal Stewart(1B) | 4:JJ Bleday(LF) | 5:Eugenio Suárez(DH) | 6:Dane Myers(CF) | 7:Matt McLain(2B) | 8:Jose Trevino(C) | 9:Ke'Bryan Hayes(3B)
+2026-08-26,823180,2026-08-26T19:45:00Z,Pre-Game,SF,CIN,1,657277,Logan Webb,666157,Nick Lodolo,1:Jonah Cox(CF) | 2:Rafael Devers(1B) | 3:Osleivis Basabe(DH) | 4:Buddy Kennedy(3B) | 5:Turner Hill(LF) | 6:Andrew Knizner(C) | 7:Christian Koss(SS) | 8:Grant McCray(RF) | 9:Shay Whitcomb(2B)
 2026-08-26,823988,2026-08-26T20:07:00Z,Scheduled,CLE,LAA,0,676282,Joey Cantillo,680570,Grayson Rodriguez,
 2026-08-26,823988,2026-08-26T20:07:00Z,Scheduled,LAA,CLE,1,680570,Grayson Rodriguez,676282,Joey Cantillo,
-2026-08-26,823255,2026-08-26T20:10:00Z,Scheduled,PIT,SD,0,696149,Bubba Chandler,681190,Randy Vásquez,
-2026-08-26,823255,2026-08-26T20:10:00Z,Scheduled,SD,PIT,1,681190,Randy Vásquez,696149,Bubba Chandler,
+2026-08-26,823255,2026-08-26T20:10:00Z,Pre-Game,PIT,SD,0,696149,Bubba Chandler,681190,Randy Vásquez,
+2026-08-26,823255,2026-08-26T20:10:00Z,Pre-Game,SD,PIT,1,681190,Randy Vásquez,696149,Bubba Chandler,1:Fernando Tatis Jr.(RF) | 2:Jake Cronenworth(2B) | 3:Manny Machado(3B) | 4:Ty France(1B) | 5:Jackson Merrill(CF) | 6:Luis Rengifo(LF) | 7:Gavin Sheets(DH) | 8:Xander Bogaerts(SS) | 9:Freddy Fermin(C)
 2026-08-26,823096,2026-08-26T20:10:00Z,Scheduled,PHI,SEA,0,666200,Jesús Luzardo,693433,Bryan Woo,
 2026-08-26,823096,2026-08-26T20:10:00Z,Scheduled,SEA,PHI,1,693433,Bryan Woo,666200,Jesús Luzardo,
 2026-08-26,823825,2026-08-26T22:40:00Z,Scheduled,BOS,MIA,0,543243,Sonny Gray,687473,Ryan Gusto,
 2026-08-26,823825,2026-08-26T22:40:00Z,Scheduled,MIA,BOS,1,687473,Ryan Gusto,543243,Sonny Gray,
 2026-08-26,822692,2026-08-26T22:45:00Z,Scheduled,COL,WSH,0,685299,Tanner Gordon,663362,Matt Waldron,
 2026-08-26,822692,2026-08-26T22:45:00Z,Scheduled,WSH,COL,1,663362,Matt Waldron,685299,Tanner Gordon,
-2026-08-26,823506,2026-08-26T23:05:00Z,Scheduled,HOU,NYY,0,663567,Peter Lambert,,,
-2026-08-26,823506,2026-08-26T23:05:00Z,Scheduled,NYY,HOU,1,,,663567,Peter Lambert,
+2026-08-26,823506,2026-08-26T23:05:00Z,Scheduled,HOU,NYY,0,663567,Peter Lambert,695684,Elmer Rodríguez,
+2026-08-26,823506,2026-08-26T23:05:00Z,Scheduled,NYY,HOU,1,695684,Elmer Rodríguez,663567,Peter Lambert,
 2026-08-26,822772,2026-08-26T23:07:00Z,Scheduled,KC,TOR,0,677976,Randy Dobnak,693686,Spencer Miles,
 2026-08-26,822772,2026-08-26T23:07:00Z,Scheduled,TOR,KC,1,693686,Spencer Miles,677976,Randy Dobnak,
 2026-08-26,823584,2026-08-26T23:10:00Z,Scheduled,MIL,NYM,0,669160,Dustin May,476594,Robert Stock,
