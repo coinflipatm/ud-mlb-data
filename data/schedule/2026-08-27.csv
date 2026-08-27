@@ -1,0 +1,15 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-08-27,822694,2026-08-27T17:05:00Z,Pre-Game,COL,WSH,0,687312,Gabriel Hughes,663623,Jake Irvin,1:Jake McCarthy(DH) | 2:Cole Carrigg(CF) | 3:Willi Castro(3B) | 4:TJ Rumfield(1B) | 5:Connor Norby(2B) | 6:Troy Johnston(RF) | 7:Brett Sullivan(C) | 8:Zac Veen(LF) | 9:Ezequiel Tovar(SS)
+2026-08-27,822694,2026-08-27T17:05:00Z,Pre-Game,WSH,COL,1,663623,Jake Irvin,687312,Gabriel Hughes,1:CJ Abrams(DH) | 2:Dylan Crews(RF) | 3:Andrés Chaparro(1B) | 4:Daylen Lile(LF) | 5:Brady House(3B) | 6:Keibert Ruiz(C) | 7:Jacob Young(CF) | 8:Jorbit Vivas(2B) | 9:Nasim Nuñez(SS)
+2026-08-27,823014,2026-08-27T18:15:00Z,Scheduled,BAL,STL,0,669432,Trevor Rogers,,,
+2026-08-27,823014,2026-08-27T18:15:00Z,Scheduled,STL,BAL,1,,,669432,Trevor Rogers,
+2026-08-27,823503,2026-08-27T23:05:00Z,Scheduled,HOU,NYY,0,669713,Hayden Wesneski,543037,Gerrit Cole,
+2026-08-27,823503,2026-08-27T23:05:00Z,Scheduled,NYY,HOU,1,543037,Gerrit Cole,669713,Hayden Wesneski,
+2026-08-27,822771,2026-08-27T23:07:00Z,Scheduled,KC,TOR,0,702070,Noah Cameron,681293,Spencer Arrighetti,
+2026-08-27,822771,2026-08-27T23:07:00Z,Scheduled,TOR,KC,1,681293,Spencer Arrighetti,702070,Noah Cameron,
+2026-08-27,823581,2026-08-27T23:10:00Z,Scheduled,MIL,NYM,0,694819,Jacob Misiorowski,640455,Sean Manaea,
+2026-08-27,823581,2026-08-27T23:10:00Z,Scheduled,NYM,MIL,1,640455,Sean Manaea,694819,Jacob Misiorowski,
+2026-08-27,824879,2026-08-27T23:15:00Z,Scheduled,LAD,ATL,0,808967,Yoshinobu Yamamoto,519242,Chris Sale,
+2026-08-27,824879,2026-08-27T23:15:00Z,Scheduled,ATL,LAD,1,519242,Chris Sale,808967,Yoshinobu Yamamoto,
+2026-08-27,823179,2026-08-28T01:45:00Z,Scheduled,AZ,SF,0,703615,Jose Cabrera,694738,Landen Roupp,
+2026-08-27,823179,2026-08-28T01:45:00Z,Scheduled,SF,AZ,1,694738,Landen Roupp,703615,Jose Cabrera,
