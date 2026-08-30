@@ -1,0 +1,12 @@
+date,slate_games,contest,entry_fee,draft_slot,P,P_score,bat1,bat1_score,bat2,bat2_score,bat3,bat3_score,bat4,bat4_score,bat5,bat5_score,n_under3,stack_team,stack_implied,stack_actual_runs,build_shape,ticket_score,cash_line,room_finish,overall_finish,payout,grade_a,grade_b,grade_c,notes
+2026-08-20,Thu main (pre-freeze),,,,deGrom,,Altuve,,Seager,,Langford,,Henderson,,Ramos,,,HOU side of LAA 18 @ HOU 3,,3,,62,81,,T-1109,,,,,pre-freeze reference; per-player scores not logged
+2026-08-20,Thu main (pre-freeze),,,,Lambert,,Rice,,Alonso,,Langford,,Varsho,,Lowe,,,,,,,38.67,81,,T-2349,,,,,pre-freeze reference; Lambert was the losing starter
+2026-08-21,Fri late (pre-freeze),,,,Vasquez?,,Carroll,,Rodriguez,,Betts,,Perdomo,,Hernandez,,,,,,,76.67,71,,T-95,cashed,,,,"pre-freeze reference; Busch on ticket, P unclear from log"
+2026-08-21,Fri late (pre-freeze),,,,Vasquez,,Freeman,,Machado,,Tucker,,Hernandez,,Merrill,,,,,,,26,71,,T-846,,,,,pre-freeze reference
+2026-08-22,11 games,,,4,Soroka,0.33,Betts,5,Muncy,22,Langford,0,Nimmo,0,Tucker,13,2,TEX + LAD,"TEX ~4.6 (-158, O/U 8)","TEX 0, LAD 4",3+2+P,40.33,59,,T-1556,0,,N,,freeze slate 1
+2026-08-22,11 games,,,5,Hunter Brown,8.67,Adell,23,Abreu,2,Machado,8,Altuve,0,Walker,8,2,HOU,"~4.8 (-235, O/U 8)",3,,49.67,59,,T-992,0,,N,,freeze slate 1
+2026-08-23,10 games,,,2,Rodon,5,A. Ramirez,10,Caminero,10,H. Hernandez,11,Henderson,0,Trout,9,1,MIA pair + BAL/TB split,,"MIA 6, BAL 1",2+2+1+P,45.00,71,,T-2909,0,N,N,,freeze slate 2 (interleaved queue -> 4-game ticket)
+2026-08-23,10 games,,,5,Baz,5.67,Alvarez,14,Harper,17,Basallo,0,Stott,0,Beavers,0,3,BAL + PHI pair,,BAL 1,3+2+P,36.67,71,,T-3492,0,,N,,freeze slate 2
+2026-08-28,12-game main,Triple Play $3 (T1),3,,,,,,,,,,,,,,,,,,,,,7th,,60,,,,fill from slate-log-2026-08-28.md; $60 won
+2026-08-28,12-game main,Fastball Friday $7 (F1),7,,,,Michael Harris,26,,,,,,,,,,,,,,,,T-374,,14,,,,"auto-swap pulled in Harris (O-tag swaps on Henderson, Cowser); $14 won"
+2026-08-29,5-game early,,,,,,Pete Crow-Armstrong,53,Alex Bregman,30,Randy Arozarena,0,Leahy,5,,,,CHC,,17,,122,,,,,,,,"best logged ticket; winner 157; two swaps (Kelly 33, Soriano 15) would have won by 8 (report 4.3)"

@@ -1,0 +1,18 @@
+id,date,rule_touched,observation,numbers,source
+O-1,2026-08-23,16,"3 of 4 winning stacks (LAA dog, CIN ~3.4, KC ~4.1) were below the Tier A/B line",,rulebook v8 log
+O-2,2026-08-23,11,"Shape of first four winners: 3+2+ace x3, 5+P; bats from <=2 games, >=3 from one lineup, every slot >=7 on the three screenshotted",,rulebook v8 log
+O-3,2026-08-28,"5,8",Batter 20-point rate is almost entirely downstream of team runs,P20 1.1% (0-2 runs) -> 32.8% (12+),report 2.2
+O-4,2026-08-23,16,Spot-starter offense boost,"+0.28 R; 5+ runs 47.7% vs 42.1%; n=4,506",pitcher_logs 2015-26
+O-5,2026-08-28,5,Shutout bounce-back rejected: teams score below their average after a shutout,,memory log
+O-6,2026-08-28,18,"O-tagged players do trigger auto-swaps from the queue (Henderson, Cowser -> Harris 26)",,8/28 slate
+O-7,2026-08-28,6,"Ownership = share of rooms (~1 in 6 entries), not share of field",,report 6.4
+O-8,2026-08-28,16,Sutter Health Park: ~4.25x on P(12+) for visiting teams,park P20 idx 1.39 (this build),boxscores
+O-9,2026-08-30,8,Slot order: slots 1-4 above 5-6 in season data and conditional on 9+ runs; 3-6 > 1-2 does not appear,"P20 B1 10.0/B3 9.4/B4 8.6/B6 6.1%; 9+ runs: B1-B3 29-30%, B5-B6 21-22%","boxscores 36,722 / 4,083"
+O-10,2026-08-30,11,Stack tail is real with same slot mix and identical means,1-5 stack P(90+) 2.4% vs spread 0.7%; P(110+) 0.47% vs 0.03%,"boxscores 4,078 / 3,037"
+O-11,2026-08-30,"5,16","Team quality moves the 9+/12+ tail, not P(5+)",P(5+) 42.0->42.7%; P(9+) 9.5->12.5%; P(12+) 2.2->4.4%,"boxscores 3,482 expanding OOS"
+O-12,2026-08-30,8,"Zero rates 18-32% by slot; 'no zeros' is an outcome, slot/OBP are the controllables",P(<=0) B1 18% ... B9 32%,boxscores
+O-13,2026-08-30,"8,16",8/29 rebuilt board: law order put Busch (B4) ahead of Crow-Armstrong (B1) inside CHC; model order 41 vs 10; scores 0 and 53,law_rank 20 vs 23,out/bats_2026-08-29.csv
+O-14,2026-08-30,16,"8/29 without market: multiplier ranked CWS/MIN 2nd, CHC 3rd; tier-first law order would have put CHC at A if CHC was Tier A","stack_score 5.85/5.64; park idx CHC 1.14, MIN 0.99","out/teams_2026-08-29.csv, report 4.2"
+O-15,2026-08-30,12,Bench-projection fade contradicts Rule 12 (ignore app projections); start_rate15 measures sit risk instead,"Kelly start_rate 0.60, scored 33",report 4.2
+O-16,2026-08-30,2,"SP scoring capped: season max 29, 3.8% of starts >=20; bats reach 59","4,081 SP starts",boxscores
+O-17,2026-08-30,-,Handedness not wired; add batSide/pitchHand to pull_mlb.py (Stats API people endpoint),,-
