@@ -1,0 +1,25 @@
+n,type,name,team,slot,key,pos
+1,P,Zack Wheeler,PHI,wp .614,K/9 10.14 | mean 12.79 | P20 18.2% | max 25,P
+2,BAT,Pete Alonso,BAL,B2,adj 15.62 | mean 9.44 | max 43.0 | P20 0.13,DH
+3,BAT,Christian Encarnacion-Strand,BAL,B5,adj 13.98 | mean 8.97 | max 29.0 | P20 0.207,3B
+4,BAT,Gunnar Henderson,BAL,B3,adj 13.67 | mean 7.99 | max 32.0 | P20 0.081,SS
+5,BAT,Leody Taveras,BAL,B6,adj 12.38 | mean 7.02 | max 25.0 | P20 0.069,RF
+6,BAT,Colton Cowser,BAL,B9,adj 11.35 | mean 6.1 | max 28.0 | P20 0.05,CF
+7,BAT,Coby Mayo,BAL,B4,adj 12.6 | mean 7.19 | max 25.0 | P20 0.042,1B
+8,BAT,Blaze Alexander,BAL,B1,adj 12.62 | mean 7.18 | max 33.0 | P20 0.045,2B
+9,BAT,Zack Gelof,ATH,B3,adj 11.33 | mean 8.6 | max 28.0 | P20 0.091,3B
+10,BAT,Lawrence Butler,ATH,B4,adj 10.39 | mean 7.55 | max 30.0 | P20 0.043,RF
+11,BAT,Henry Bolte,ATH,B1,adj 10.13 | mean 7.27 | max 32.0 | P20 0.024,CF
+12,BAT,Jeff McNeil,ATH,B2,adj 9.24 | mean 6.37 | max 33.0 | P20 0.02,DH
+13,BAT,Donovan Walton,ATH,B5,adj 10.15 | mean 7.28 | max 18.0 | P20 0.0,2B
+14,BAT,Carlos Cortes,ATH,B7,adj 9.76 | mean 6.88 | max 32.0 | P20 0.067,LF
+15,BAT,Pete Crow-Armstrong,CHC,B1,adj 9.13 | mean 11.45 | max 53.0 | P20 0.181,CF
+16,BAT,Seiya Suzuki,CHC,B2,adj 8.04 | mean 9.93 | max 34.0 | P20 0.147,DH
+17,BAT,Ian Happ,CHC,B5,adj 7.14 | mean 8.52 | max 33.0 | P20 0.109,LF
+18,BAT,Alex Bregman,CHC,B3,adj 7.34 | mean 8.8 | max 56.0 | P20 0.097,3B
+19,BAT,Michael Busch,CHC,B4,adj 6.96 | mean 8.24 | max 27.0 | P20 0.096,1B
+20,BAT,Elly De La Cruz,CIN,B1,adj 13.4 | mean 9.74 | max 43.0 | P20 0.117,SS
+21,BAT,Sal Stewart,CIN,B2,adj 13.27 | mean 9.54 | max 36.0 | P20 0.123,1B
+22,BAT,JJ Bleday,CIN,B7,adj 11.64 | mean 8.16 | max 39.0 | P20 0.104,LF
+23,BAT,Matt McLain,CIN,B6,adj 10.26 | mean 6.87 | max 35.0 | P20 0.115,SS
+24,P-backup,Shota Imanaga,CHC,wp .591,K/9 8.80 | mean 10.57 | max 21,P

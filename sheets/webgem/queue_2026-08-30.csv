@@ -1,0 +1,25 @@
+,type,name,team,slot_or_wp,adj_mean_or_k9,max,start_rate15
+1,BAT,Christian Encarnacion-Strand,BAL,B5,13.98,29.0,0.87
+2,BAT,Gunnar Henderson,BAL,B3,13.67,32.0,0.93
+3,BAT,Coby Mayo,BAL,B4,12.6,25.0,0.87
+4,BAT,Leody Taveras,BAL,B6,12.38,25.0,0.93
+5,BAT,Pete Alonso,BAL,B2,15.62,43.0,1.0
+6,BAT,Blaze Alexander,BAL,B1,12.62,33.0,0.07
+7,BAT,Alex Bregman,CHC,B3,7.34,56.0,1.0
+8,BAT,Ian Happ,CHC,B5,7.14,33.0,0.8
+9,BAT,Michael Busch,CHC,B4,6.96,27.0,0.93
+10,BAT,Nico Hoerner,CHC,B5,6.62,34.0,0.93
+11,P,Zack Wheeler,PHI,wp0.614,10.71,25.0,
+12,BAT,Zack Gelof,ATH,B3,11.33,28.0,1.0
+13,BAT,Lawrence Butler,ATH,B4,10.39,30.0,1.0
+14,BAT,Donovan Walton,ATH,B5,10.15,18.0,0.73
+15,BAT,Tommy White,ATH,B6,8.71,19.0,0.87
+16,BAT,Henry Bolte,ATH,B1,10.13,32.0,1.0
+17,BAT,Jeff McNeil,ATH,B2,9.24,33.0,0.8
+18,BAT,Brian Serven,ATH,B8,10.25,21.0,0.4
+19,BAT,Carlos Cortes,ATH,B7,9.76,32.0,0.8
+20,BAT,Alika Williams,ATH,B9,8.74,22.0,0.4
+21,BAT,Dane Myers,CIN,B3,10.38,29.0,0.73
+22,BAT,Matt McLain,CIN,B6,10.26,35.0,1.0
+23,BAT,Tyler Stephenson,CIN,B4,10.14,36.0,0.73
+24,BAT,Eugenio Suárez,CIN,B5,10.13,36.0,0.93
