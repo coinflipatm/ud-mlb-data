@@ -1,0 +1,21 @@
+pitcher,team,opp,home,win_prob,wp_src,k9,k9_shr,kbb,hr9,era,gs26,ip_per_gs,ud_mean,ud_p20,ud_max,ud_min,ud_n,spot_starter,coors,legal,game_pk,venue
+Mason Adams,COL,ATL,A,0.325,MARKET,11.25,8.61,1.67,2.25,2.25,1,4.0,8.0,0.0,8.0,8.0,1,True,False,False,824876,ATL
+Tyler Mahle,ATL,COL,H,0.675,MARKET,8.52,8.48,2.67,1.22,4.41,22,5.38,9.11,0.0,18.0,2.0,22,False,False,True,824876,ATL
+Ranger Suarez,BOS,NYY,A,0.523,MARKET,8.9,8.76,3.16,0.53,3.35,23,5.14,9.67,0.043,23.0,2.0,23,False,False,True,823502,NYY
+Will Warren,NYY,BOS,H,0.477,MARKET,8.93,8.79,2.8,1.42,4.39,25,5.08,8.93,0.04,21.0,0.67,25,False,False,False,823502,NYY
+Logan Gilbert,SEA,TOR,A,0.559,MARKET,9.39,9.17,4.15,1.22,3.36,26,5.97,12.2,0.038,21.0,4.0,26,False,False,True,822766,TOR
+Max Scherzer,TOR,SEA,H,0.441,MARKET,6.48,7.31,1.44,2.16,7.02,12,4.17,4.83,0.0,14.0,-4.67,12,False,False,False,822766,TOR
+Seth Lugo,KC,CLE,A,0.369,MARKET,6.94,7.24,2.47,0.96,4.61,27,5.57,9.05,0.0,17.0,1.0,28,False,False,False,824393,CLE
+Parker Messick,CLE,KC,H,0.631,MARKET,9.06,8.91,3.8,0.81,2.5,26,5.96,12.26,0.037,20.0,5.67,27,False,False,True,824393,CLE
+Tyler Glasnow,LAD,DET,A,0.612,MARKET,11.28,9.9,4.31,1.01,3.02,8,5.58,12.96,0.125,22.0,2.0,8,False,False,True,824232,DET
+Framber Valdez,DET,LAD,H,0.388,MARKET,6.91,7.22,1.98,0.87,4.35,26,5.56,9.26,0.038,20.0,-4.33,26,False,False,False,824232,DET
+Robbie Ray,SD,TB,A,0.395,MARKET,7.68,7.83,1.74,1.2,3.21,25,5.72,9.99,0.0,19.0,-3.67,25,False,False,False,822933,TB
+Drew Rasmussen,TB,SD,H,0.605,MARKET,9.17,8.99,5.72,0.83,2.95,25,5.61,12.29,0.2,25.0,-1.67,25,False,False,True,822933,TB
+Jordan Hicks,CWS,MIN,A,0.475,MARKET,11.02,9.69,1.96,0.68,3.82,1,40.0,2.0,0.0,2.0,2.0,1,True,False,False,823662,MIN
+Zebby Matthews,MIN,CWS,H,0.525,MARKET,7.64,7.84,2.75,1.65,4.86,18,5.76,9.93,0.0,18.0,-1.0,18,False,False,True,823662,MIN
+Kumar Rocker,TEX,MIL,A,0.397,MARKET,8.31,8.32,2.29,1.28,4.41,23,5.51,7.87,0.0,17.0,-1.0,23,False,False,False,823740,MIL
+Dustin May,MIL,TEX,H,0.603,MARKET,8.54,8.5,2.81,0.65,4.56,25,4.97,9.46,0.042,23.0,-4.0,24,False,False,True,823740,MIL
+Braxton Ashcraft,PIT,STL,A,0.524,MARKET,9.33,9.13,4.74,1.22,3.59,26,5.97,12.05,0.148,23.0,-2.0,27,False,False,True,823010,STL
+Matthew Liberatore,STL,PIT,H,0.476,MARKET,9.21,9.01,2.93,1.6,5.44,26,4.96,8.12,0.0,17.0,-1.33,26,False,False,False,823010,STL
+Ethan Pecko,HOU,NYM,A,0.472,MARKET,5.62,7.9,0.71,2.25,7.88,2,4.0,3.0,0.0,5.67,0.33,2,True,False,False,823580,NYM
+Zac Thornton,NYM,HOU,H,0.528,MARKET,6.39,7.2,2.86,0.96,2.88,10,5.63,10.23,0.0,15.0,3.33,10,False,False,True,823580,NYM
