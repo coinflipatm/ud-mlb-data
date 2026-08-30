@@ -1,0 +1,37 @@
+,type,name,team,slot_or_wp,adj_mean_or_k9,max,start_rate15
+1,BAT,Carson Benge,NYM,B4,9.95,37.0,1.0
+2,BAT,Luis Robert Jr.,NYM,B4,9.17,30.0,0.8
+3,BAT,Jared Young,NYM,B5,8.87,22.0,0.8
+4,BAT,Bo Bichette,NYM,B3,8.85,36.0,0.93
+5,BAT,Francisco Lindor,NYM,B2,9.67,47.0,1.0
+6,BAT,A.J. Ewing,NYM,B1,8.99,40.0,1.0
+7,BAT,Matt Olson,ATL,B3,9.98,37.0,1.0
+8,BAT,Michael Harris II,ATL,B4,9.07,32.0,1.0
+9,BAT,Ozzie Albies,ATL,B6,8.39,35.0,1.0
+10,BAT,Mauricio Dubón,ATL,B5,8.04,28.0,0.87
+11,P,Tyler Glasnow,LAD,wp0.591,11.28,22.0,
+12,P-backup,Logan Gilbert,SEA,wp0.556,9.39,21.0,
+13,P-backup,Braxton Ashcraft,PIT,wp0.532,9.33,23.0,
+14,BAT,Ryan Jeffers,MIN,B4,6.34,33.0,0.67
+15,BAT,Kody Clemens,MIN,B3,6.01,29.0,0.93
+16,BAT,Josh Bell,MIN,B5,5.82,36.0,0.93
+17,BAT,Trevor Larnach,MIN,B6,5.56,26.0,0.67
+18,BAT,Brooks Lee,MIN,B2,5.63,30.0,1.0
+19,BAT,Luke Keaschall,MIN,B1,5.65,24.0,1.0
+20,BAT,Royce Lewis,MIN,B7,5.54,25.0,1.0
+21,BAT,Walker Jenkins,MIN,B9,5.48,12.0,0.13
+22,BAT,Kaelen Culpepper,MIN,B8,5.34,16.0,0.93
+23,BAT,Isaac Paredes,HOU,B3,7.84,31.0,1.0
+24,BAT,Christian Walker,HOU,B5,7.64,36.0,0.87
+25,BAT,Jose Altuve,HOU,B4,7.23,41.0,0.93
+26,BAT,Daulton Varsho,HOU,B6,6.55,30.0,0.93
+27,BAT,Yordan Alvarez,HOU,B2,10.14,39.0,1.0
+28,BAT,Jeremy Peña,HOU,B1,8.71,33.0,0.87
+29,BAT,Yainer Diaz,HOU,B7,6.9,38.0,0.53
+30,BAT,Cam Smith,HOU,B8,6.89,33.0,0.73
+31,BAT,Nick Allen,HOU,B9,6.37,31.0,0.33
+32,BAT,Jake Bauers,MIL,B3,8.67,32.0,0.87
+33,BAT,Jackson Chourio,MIL,B4,8.39,46.0,1.0
+34,BAT,Christian Yelich,MIL,B5,7.47,27.0,0.67
+35,BAT,Gary Sánchez,MIL,B6,7.2,26.0,0.53
+36,BAT,Brice Turang,MIL,B1,8.27,36.0,0.67

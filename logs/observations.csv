@@ -16,3 +16,4 @@ O-14,2026-08-30,16,"8/29 without market: multiplier ranked CWS/MIN 2nd, CHC 3rd;
 O-15,2026-08-30,12,Bench-projection fade contradicts Rule 12 (ignore app projections); start_rate15 measures sit risk instead,"Kelly start_rate 0.60, scored 33",report 4.2
 O-16,2026-08-30,2,"SP scoring capped: season max 29, 3.8% of starts >=20; bats reach 59","4,081 SP starts",boxscores
 O-17,2026-08-30,-,Handedness not wired; add batSide/pitchHand to pull_mlb.py (Stats API people endpoint),,-
+O-18,2026-08-30,"16,12","Sheet's Game A (NYM) had no posted lineup at draft time; law order overridden to ATL, the posted Tier A team. Record whether NYM or ATL scored more.",NYM implied 4.61 mult 1.227; ATL implied 4.85 mult 1.116,sheets/2026-08-30_v2
