@@ -1,0 +1,25 @@
+n,pick,name,team,pos,slot,note
+1,P,Zack Wheeler,PHI,P,wp .614,K/9 10.14 | mean 12.79 | P20 18% | max 25 | RULE 1 EXCEPTION
+2,BAT,Coby Mayo,BAL,1B,B4,imp 5.53 | adj 12.6 | mean 7.19 | max 25.0 | P20 0.042 | start 0.87
+3,BAT,Pete Alonso,BAL,DH,B2,imp 5.53 | adj 15.62 | mean 9.44 | max 43.0 | P20 0.13 | start 1.0
+4,BAT,Blaze Alexander,BAL,2B,B1,imp 5.53 | adj 12.62 | mean 7.18 | max 33.0 | P20 0.045 | start 0.07
+5,BAT,Christian Franklin,BAL,LF,B7,imp 5.53 | adj 11.98 | mean 5.0 | max 13.0 | P20 0.0 | start 0.47
+6,BAT,Carlos Narváez,BAL,C,B8,imp 5.53 | adj 9.23 | mean 4.15 | max 26.0 | P20 0.042 | start 0.6
+7,BAT,Zack Gelof,ATH,3B,B3,imp 4.97 | adj 11.33 | mean 8.6 | max 28.0 | P20 0.091 | start 1.0
+8,BAT,Lawrence Butler,ATH,RF,B4,imp 4.97 | adj 10.39 | mean 7.55 | max 30.0 | P20 0.043 | start 1.0
+9,BAT,Donovan Walton,ATH,2B,B5,imp 4.97 | adj 10.15 | mean 7.28 | max 18.0 | P20 0.0 | start 0.73
+10,BAT,Tommy White,ATH,1B,B6,imp 4.97 | adj 8.71 | mean 5.06 | max 19.0 | P20 0.0 | start 0.87
+11,BAT,Henry Bolte,ATH,CF,B1,imp 4.97 | adj 10.13 | mean 7.27 | max 32.0 | P20 0.024 | start 1.0
+12,BAT,Jeff McNeil,ATH,DH,B2,imp 4.97 | adj 9.24 | mean 6.37 | max 33.0 | P20 0.02 | start 0.8
+13,BAT,Brian Serven,ATH,C,B8,imp 4.97 | adj 10.25 | mean 7.5 | max 21.0 | P20 0.083 | start 0.4
+14,BAT,Carlos Cortes,ATH,LF,B7,imp 4.97 | adj 9.76 | mean 6.88 | max 32.0 | P20 0.067 | start 0.8
+15,BAT,Alika Williams,ATH,SS,B9,imp 4.97 | adj 8.74 | mean 5.25 | max 22.0 | P20 0.025 | start 0.4
+16,BAT,Alex Bregman,CHC,3B,B3,imp 4.8 | adj 7.34 | mean 8.8 | max 56.0 | P20 0.097 | start 1.0
+17,BAT,Ian Happ,CHC,LF,B5,imp 4.8 | adj 7.14 | mean 8.52 | max 33.0 | P20 0.109 | start 0.8
+18,BAT,Michael Busch,CHC,1B,B4,imp 4.8 | adj 6.96 | mean 8.24 | max 27.0 | P20 0.096 | start 0.93
+19,BAT,Nico Hoerner,CHC,SS,B5,imp 4.8 | adj 6.62 | mean 7.71 | max 34.0 | P20 0.082 | start 0.93
+20,BAT,Pete Crow-Armstrong,CHC,CF,B1,imp 4.8 | adj 9.13 | mean 11.45 | max 53.0 | P20 0.181 | start 1.0
+21,BAT,Seiya Suzuki,CHC,DH,B2,imp 4.8 | adj 8.04 | mean 9.93 | max 34.0 | P20 0.147 | start 1.0
+22,BAT,Pedro Ramírez,CHC,2B,B7,imp 4.8 | adj 6.99 | mean 8.78 | max 32.0 | P20 0.15 | start 0.93
+23,BAT,Carson Kelly,CHC,C,B9,imp 4.8 | adj 6.48 | mean 7.52 | max 37.0 | P20 0.071 | start 0.6
+24,BAT,Michael Conforto,CHC,DH,B8,imp 4.8 | adj 6.08 | mean 6.77 | max 42.0 | P20 0.07 | start 0.67
