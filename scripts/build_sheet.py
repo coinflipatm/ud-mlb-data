@@ -344,6 +344,9 @@ def main():
     B["model_rank"] = B.adj_mean.rank(ascending=False, method="first").astype(int)   # pure adjusted-mean order (open question 3)
     B = B.sort_values(["tier_rank","stack_score","law_slot_rank","adj_mean"], ascending=[True,False,True,False]).reset_index(drop=True)
     B["law_rank"] = np.arange(1, len(B)+1)
+    # FLOOR GUARD (O-21): a bat under a 0.60 start rate or 30 career starts is demoted behind every
+    # qualified bat regardless of tier/implied total. A queue is an autopick list; unsafe names never sit high.
+    B["floor_ok"] = (B.start_rate15 >= 0.60) & (B.starts >= 30)
 
     # ---------------- game A / B / ace
     A_team = T.iloc[0].team; A_game = T.iloc[0].game_pk
@@ -352,6 +355,9 @@ def main():
     legal = legal[~legal.game_pk.isin([A_game, B_game])]
     legal = legal.sort_values(["k9_shr","win_prob"], ascending=[False,False])
     ace = legal.iloc[0] if len(legal) else None
+    if ace is not None:
+        ace_opp = ace.opp
+        B.loc[B.team == ace_opp, "blocked"] = True   # never a hitter against our own pitcher (Rule 7)
     all_legal = P[P.legal].sort_values(["k9_shr","win_prob"], ascending=[False,False])
     r1_exception = False
     if len(all_legal) >= 2 and all_legal.iloc[0].k9_shr - all_legal.iloc[1].k9_shr >= 1.0: r1_exception = True
@@ -361,21 +367,25 @@ def main():
     depth = args.drafters * args.rounds
     q = []
     def add_team(tm, cap):
-        for _, r in B[(B.team==tm)&(~B.blocked)].sort_values(["law_slot_rank","adj_mean"], ascending=[True,False]).head(cap).iterrows():
+        for _, r in B[(B.team==tm)&(~B.blocked)&B.floor_ok].sort_values(["law_slot_rank","adj_mean"], ascending=[True,False]).head(cap).iterrows():
             q.append(("BAT", r.player, tm, f"B{r.slot}", r.adj_mean, r.max_ud, r.start_rate15))
     add_team(A_team, 6)
     if B_team: add_team(B_team, 4)
     if ace is not None: q.append(("P", ace.pitcher, ace.team, f"wp{ace.win_prob}", ace.k9, ace.ud_max, ""))
     for _, r in legal.iloc[1:3].iterrows(): q.append(("P-backup", r.pitcher, r.team, f"wp{r.win_prob}", r.k9, r.ud_max, ""))
     used = {x[1] for x in q}
-    for _, r in B[~B.blocked].iterrows():
+    for _, r in B[(~B.blocked)&B.floor_ok].iterrows():
         if len(q) >= depth: break
         if r.player in used or r.team in (A_team, B_team): continue
         q.append(("BAT", r.player, r.team, f"B{r.slot}", r.adj_mean, r.max_ud, r.start_rate15)); used.add(r.player)
-    for _, r in B[(~B.blocked)&(B.team.isin([A_team, B_team]))].iterrows():   # deeper A/B bats last, as swap-pool
+    for _, r in B[(~B.blocked)&(B.team.isin([A_team, B_team]))&B.floor_ok].iterrows():
         if len(q) >= depth: break
         if r.player in used: continue
         q.append(("BAT", r.player, r.team, f"B{r.slot}", r.adj_mean, r.max_ud, r.start_rate15)); used.add(r.player)
+    for _, r in B[(~B.blocked)&(~B.floor_ok)].sort_values("adj_mean", ascending=False).iterrows():  # demoted: thin / sit-risk
+        if len(q) >= depth: break
+        if r.player in used: continue
+        q.append(("BAT-thin", r.player, r.team, f"B{r.slot}", r.adj_mean, r.max_ud, r.start_rate15)); used.add(r.player)
     Q = pd.DataFrame(q, columns=["type","name","team","slot_or_wp","adj_mean_or_k9","max","start_rate15"]); Q.index = Q.index + 1
 
     # ---------------- write

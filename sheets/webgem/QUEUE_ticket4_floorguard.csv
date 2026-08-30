@@ -1,0 +1,25 @@
+n,pick,name,team,pos,slot,note
+1,P,Zack Wheeler,PHI,P,wp .614,K/9 10.14 | mean 12.79 | P20 18% | max 25
+2,BAT,Coby Mayo,BAL,1B,B4,imp 5.53 | mean 7.19 | max 25.0 | starts 95 | start-rate 0.87
+3,BAT,Pete Alonso,BAL,DH,B2,imp 5.53 | mean 9.44 | max 43.0 | starts 138 | start-rate 1.0
+4,BAT,Carlos Narváez,BAL,C,B8,imp 5.53 | mean 4.15 | max 26.0 | starts 72 | start-rate 0.6
+5,BAT,Zack Gelof,ATH,3B,B3,imp 4.97 | mean 8.6 | max 28.0 | starts 77 | start-rate 1.0
+6,BAT,Lawrence Butler,ATH,RF,B4,imp 4.97 | mean 7.55 | max 30.0 | starts 93 | start-rate 1.0
+7,BAT,Donovan Walton,ATH,2B,B5,imp 4.97 | mean 7.28 | max 18.0 | starts 46 | start-rate 0.73
+8,BAT,Tommy White,ATH,1B,B6,imp 4.97 | mean 5.06 | max 19.0 | starts 35 | start-rate 0.87
+9,BAT,Henry Bolte,ATH,CF,B1,imp 4.97 | mean 7.27 | max 32.0 | starts 84 | start-rate 1.0
+10,BAT,Jeff McNeil,ATH,DH,B2,imp 4.97 | mean 6.37 | max 33.0 | starts 99 | start-rate 0.8
+11,BAT,Carlos Cortes,ATH,LF,B7,imp 4.97 | mean 6.88 | max 32.0 | starts 75 | start-rate 0.8
+12,BAT,Alex Bregman,CHC,3B,B3,imp 4.8 | mean 8.8 | max 56.0 | starts 134 | start-rate 1.0
+13,BAT,Ian Happ,CHC,LF,B5,imp 4.8 | mean 8.52 | max 33.0 | starts 128 | start-rate 0.8
+14,BAT,Michael Busch,CHC,1B,B4,imp 4.8 | mean 8.24 | max 27.0 | starts 136 | start-rate 0.93
+15,BAT,Nico Hoerner,CHC,SS,B5,imp 4.8 | mean 7.71 | max 34.0 | starts 134 | start-rate 0.93
+16,BAT,Pete Crow-Armstrong,CHC,CF,B1,imp 4.8 | mean 11.45 | max 53.0 | starts 138 | start-rate 1.0
+17,BAT,Seiya Suzuki,CHC,DH,B2,imp 4.8 | mean 9.93 | max 34.0 | starts 116 | start-rate 1.0
+18,BAT,Pedro Ramírez,CHC,2B,B7,imp 4.8 | mean 8.78 | max 32.0 | starts 40 | start-rate 0.93
+19,BAT,Carson Kelly,CHC,C,B9,imp 4.8 | mean 7.52 | max 37.0 | starts 84 | start-rate 0.6
+20,BAT,Michael Conforto,CHC,DH,B8,imp 4.8 | mean 6.77 | max 42.0 | starts 57 | start-rate 0.67
+21,BAT,Dane Myers,CIN,CF,B3,imp 4.2 | mean 6.87 | max 29.0 | starts 54 | start-rate 0.73
+22,BAT,Matt McLain,CIN,SS,B6,imp 4.2 | mean 6.87 | max 35.0 | starts 104 | start-rate 1.0
+23,BAT,Tyler Stephenson,CIN,DH,B4,imp 4.2 | mean 6.74 | max 36.0 | starts 98 | start-rate 0.73
+24,BAT,Eugenio Suárez,CIN,3B,B5,imp 4.2 | mean 6.74 | max 36.0 | starts 105 | start-rate 0.93
