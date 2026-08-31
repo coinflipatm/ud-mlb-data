@@ -41,3 +41,10 @@ Pre-declared arm-conflict crosses: Harrison=arm -> cross CHC bats. Nola=arm -> c
 Two rooms only: R1 Coors+deGrom (unchanged), R2 MIL/MIN+Bradley (revised - absorbs HOU names freed by cutting R3; tier order A-leftovers before B).
 R2 revised 36: Contreras, Chourio, BRADLEY, Bauers, Yelich, Mitchell, Bell, Keaschall, Clemens, Jeffers, Turang, Hamilton, NOLA, Goodman, Castro, Rumfield, Moniak, Henderson, Mayo, Beavers, LAMBERT, Alvarez, Pena, Paredes, Altuve, Duran, Langford, Seager, Foscue, HARRISON, Rice, Bellinger, Jones, Grisham, Schwarber, Harper. (No LAA, no CWS-vs-Lambert issue: if LAMBERT becomes the arm, cross nothing - no CWS queued; if HARRISON becomes arm, no CHC queued here at all now; NOLA arm -> no AZ queued. Clean.)
 Timing: Double Play 14.6% full at 9:48a - draft AFTER lineups post (~4:30-5:30p) on board v2 with confirmed slots; if fill crosses ~75% earlier, enter on v1.
+
+## Tickets as drafted (pre-score; scores fill at final)
+T1 Double Play $25, slot 6: NOLA | Henderson BAL3?, Mayo BAL4?, Goodman COL3 | Beavers BAL5, Moniak COL6. 3 BAL + 2 COL + arm from PHI@AZ. Queue ran as designed (deGrom went at 5).
+T2 Double Play $25, slot 6: BRADISH (autopick, Coors - Rule 1; Castro vs own P - Rule 7) | Contreras MIL4, Castro COL5 | Chourio MIL2, Yelich MIL5, Bell MIN5. O-30.
+M1 Moonshot $7, slot 5: HOLMES | Alonso BAL (Q, out - swap unconfirmed), Contreras MIL4 (vs own P - Rule 7), Pena HOU1 | Crow-Armstrong CHC1, Beavers BAL5. O-31.
+M2 Moonshot $7: HARRISON | Goodman COL3, Holliday BAL1, Rumfield COL4 | Alvarez HOU2, Beavers BAL5. Clean.
+First pitch 7:40p ET (MIL@CHC, DET@MIN); BAL@COL 8:40p; last game PHI@AZ 9:40p. Pending: Exposure-page screenshot for O tags / Alonso swap (Rule 18).
