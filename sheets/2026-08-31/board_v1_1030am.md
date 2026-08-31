@@ -30,3 +30,9 @@ Alvarez, Pena, Lambert P, Paredes, Altuve HOU4, Y.Diaz HOU7, Walker HOU6^, Varsh
 
 ## Floor-guard reds (<=40% of last 10 starts >=7 pts)
 Murakami CWS 10% (ADP 18.7 trap), Cam Smith 11%, Kepler 17%, Nimmo 20%, Caballero 20%, Marsh 20%, Larnach 25%, Taveras 30%, Carrigg 30%, Moniak 30%, Burger 30%, Walker 30%, Ballesteros 30%, CES 40%, Holliday 40%, Turang 40%, Hoerner 40%, Varsho 40%, Bellinger 33%, Nola-target note: AZ C-tier fliers live (1.86 HR/9).
+
+## v1.1 addendum: full 36 queues with arm ladders (autopick-safe)
+R1: Henderson, Mayo, deGrom, Goodman, Castro, Beavers, Rumfield, Moniak, CES, Holliday, Cowser, McCarthy, HARRISON, Norby, Contreras, Chourio, Bauers, Yelich, Mitchell, Turang, PCA, Bregman, BRADLEY, Suzuki, Happ, Taylor, Alvarez, Pena, Paredes, Duran, NOLA, Langford, Bell, Keaschall, Rice, Neto.
+R2: Contreras, Chourio, BRADLEY, Bauers, Yelich, Mitchell, Bell, Keaschall, Clemens, Jeffers, Turang, Hamilton, NOLA, Duran, Langford, Seager, Foscue, Freeman, Goodman, Castro, Rumfield, Moniak, HARRISON, Henderson, Mayo, Beavers, Rice, Bellinger, Jones, PCA, Bregman, RODRIGUEZ, Suzuki, Happ, Schwarber, Harper. (No LAA bats, no Holmes.)
+R3: Alvarez, Pena, LAMBERT, Paredes, Altuve, Y.Diaz, Walker, Varsho, Duran, Langford, Seager, Foscue, NOLA, PCA, Bregman, Suzuki, Happ, Taylor, Rice, Grisham, Jones, Bellinger, HARRISON, Henderson, Mayo, Goodman, Castro, Beavers, Rumfield, BRADLEY, Neto, Trout, Harper, Moreno, Tawa, Carroll. (No CWS, no Rodriguez.)
+Pre-declared arm-conflict crosses: Harrison=arm -> cross CHC bats. Nola=arm -> cross AZ bats. Rodriguez=arm -> cross LAA bats. Holmes never queued where MIL bats are. Cross-off carried room to room; repeats only via Rule 9 exception.
