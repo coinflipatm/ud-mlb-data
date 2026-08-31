@@ -1,25 +1,25 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-08-31,824911,2026-08-31T22:05:00Z,Scheduled,SF,ATL,0,683627,Anthony Molina,693821,Bryce Elder,
-2026-08-31,824911,2026-08-31T22:05:00Z,Scheduled,ATL,SF,1,693821,Bryce Elder,683627,Anthony Molina,
-2026-08-31,824473,2026-08-31T22:40:00Z,Scheduled,SD,CIN,0,650633,Michael King,663903,Brady Singer,
-2026-08-31,824473,2026-08-31T22:40:00Z,Scheduled,CIN,SD,1,663903,Brady Singer,650633,Michael King,
-2026-08-31,822932,2026-08-31T22:40:00Z,Scheduled,NYM,TB,0,476594,Robert Stock,693855,Ian Seymour,
-2026-08-31,822932,2026-08-31T22:40:00Z,Scheduled,TB,NYM,1,693855,Ian Seymour,476594,Robert Stock,
-2026-08-31,824719,2026-08-31T22:45:00Z,Scheduled,SEA,BOS,0,669923,George Kirby,801139,Payton Tolle,
-2026-08-31,824719,2026-08-31T22:45:00Z,Scheduled,BOS,SEA,1,801139,Payton Tolle,669923,George Kirby,
-2026-08-31,822689,2026-08-31T22:45:00Z,Scheduled,MIA,WSH,0,687473,Ryan Gusto,702021,Will Dion,
-2026-08-31,822689,2026-08-31T22:45:00Z,Scheduled,WSH,MIA,1,702021,Will Dion,687473,Ryan Gusto,
-2026-08-31,823663,2026-08-31T23:40:00Z,Scheduled,DET,MIN,0,695549,Jackson Jobe,671737,Taj Bradley,
-2026-08-31,823663,2026-08-31T23:40:00Z,Scheduled,MIN,DET,1,671737,Taj Bradley,695549,Jackson Jobe,
-2026-08-31,824635,2026-08-31T23:40:00Z,Scheduled,MIL,CHC,0,690986,Kyle Harrison,605280,Clay Holmes,
-2026-08-31,824635,2026-08-31T23:40:00Z,Scheduled,CHC,MIL,1,605280,Clay Holmes,690986,Kyle Harrison,
-2026-08-31,822855,2026-09-01T00:05:00Z,Scheduled,ATH,TEX,0,695611,Gage Jump,594798,Jacob deGrom,
-2026-08-31,822855,2026-09-01T00:05:00Z,Scheduled,TEX,ATH,1,594798,Jacob deGrom,695611,Gage Jump,
-2026-08-31,824149,2026-09-01T00:10:00Z,Scheduled,CWS,HOU,0,641743,Anthony Kay,663567,Peter Lambert,
-2026-08-31,824149,2026-09-01T00:10:00Z,Scheduled,HOU,CWS,1,663567,Peter Lambert,641743,Anthony Kay,
-2026-08-31,824314,2026-09-01T00:40:00Z,Scheduled,BAL,COL,0,,,685299,Tanner Gordon,
-2026-08-31,824314,2026-09-01T00:40:00Z,Scheduled,COL,BAL,1,685299,Tanner Gordon,,,
-2026-08-31,823982,2026-09-01T01:38:00Z,Scheduled,NYY,LAA,0,695684,Elmer Rodríguez,700712,Walbert Ureña,
-2026-08-31,823982,2026-09-01T01:38:00Z,Scheduled,LAA,NYY,1,700712,Walbert Ureña,695684,Elmer Rodríguez,
-2026-08-31,825040,2026-09-01T01:40:00Z,Scheduled,PHI,AZ,0,605400,Aaron Nola,,,
-2026-08-31,825040,2026-09-01T01:40:00Z,Scheduled,AZ,PHI,1,,,605400,Aaron Nola,
+2026-08-31,824911,2026-08-31T22:05:00Z,Warmup,SF,ATL,0,683627,Anthony Molina,693821,Bryce Elder,1:Drew Gilbert(LF) | 2:Rafael Devers(DH) | 3:Bryce Eldridge(1B) | 4:Jonah Cox(CF) | 5:Jung Hoo Lee(RF) | 6:Osleivis Basabe(3B) | 7:Andrew Knizner(C) | 8:Nate Furman(2B) | 9:Christian Koss(SS)
+2026-08-31,824911,2026-08-31T22:05:00Z,Warmup,ATL,SF,1,693821,Bryce Elder,683627,Anthony Molina,1:Drake Baldwin(DH) | 2:Ronald Acuña Jr.(RF) | 3:Matt Olson(1B) | 4:Mauricio Dubón(SS) | 5:Michael Harris II(CF) | 6:Ozzie Albies(2B) | 7:Sean Murphy(C) | 8:Austin Riley(3B) | 9:Mike Yastrzemski(LF)
+2026-08-31,824473,2026-08-31T22:40:00Z,Pre-Game,SD,CIN,0,650633,Michael King,663903,Brady Singer,1:Fernando Tatis Jr.(RF) | 2:Jake Cronenworth(2B) | 3:Manny Machado(3B) | 4:Ty France(1B) | 5:Jackson Merrill(CF) | 6:Xander Bogaerts(DH) | 7:Dustin Harris(LF) | 8:Luis Campusano(C) | 9:Sung-Mun Song(SS)
+2026-08-31,824473,2026-08-31T22:40:00Z,Pre-Game,CIN,SD,1,663903,Brady Singer,650633,Michael King,1:Héctor Rodríguez(RF) | 2:Elly De La Cruz(DH) | 3:Sal Stewart(1B) | 4:JJ Bleday(LF) | 5:Tyler Stephenson(C) | 6:Eugenio Suárez(3B) | 7:Matt McLain(SS) | 8:TJ Friedl(CF) | 9:Edwin Arroyo(2B)
+2026-08-31,822932,2026-08-31T22:40:00Z,Pre-Game,NYM,TB,0,476594,Robert Stock,693855,Ian Seymour,1:Francisco Lindor(SS) | 2:Bo Bichette(3B) | 3:Carson Benge(RF) | 4:Mark Vientos(DH) | 5:Jared Young(1B) | 6:Christopher Morel(LF) | 7:Marcus Semien(2B) | 8:A.J. Ewing(CF) | 9:Francisco Alvarez(C)
+2026-08-31,822932,2026-08-31T22:40:00Z,Pre-Game,TB,NYM,1,693855,Ian Seymour,476594,Robert Stock,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Liam Hicks(C) | 5:Chandler Simpson(LF) | 6:Cedric Mullins(CF) | 7:Jonny DeLuca(RF) | 8:Richie Palacios(2B) | 9:Taylor Walls(SS)
+2026-08-31,824719,2026-08-31T22:45:00Z,Pre-Game,SEA,BOS,0,669923,George Kirby,801139,Payton Tolle,1:Randy Arozarena(LF) | 2:Dominic Canzone(DH) | 3:Julio Rodríguez(CF) | 4:Cal Raleigh(C) | 5:Josh Naylor(1B) | 6:Taylor Ward(RF) | 7:Cole Young(2B) | 8:Weston Wilson(3B) | 9:J.P. Crawford(SS)
+2026-08-31,824719,2026-08-31T22:45:00Z,Pre-Game,BOS,SEA,1,801139,Payton Tolle,669923,George Kirby,1:Roman Anthony(DH) | 2:Mickey Gasper(1B) | 3:Ceddanne Rafaela(CF) | 4:Wilyer Abreu(RF) | 5:Nick Sogard(2B) | 6:Caleb Durbin(3B) | 7:Jarren Duran(LF) | 8:Trevor Story(SS) | 9:Connor Wong(C)
+2026-08-31,822689,2026-08-31T22:45:00Z,Pre-Game,MIA,WSH,0,687473,Ryan Gusto,702021,Will Dion,1:Heriberto Hernández(LF) | 2:Otto Lopez(SS) | 3:Agustín Ramírez(DH) | 4:Javier Sanoja(2B) | 5:Kyle Stowers(1B) | 6:Leo Jiménez(3B) | 7:Jakob Marsee(CF) | 8:Esteury Ruiz(RF) | 9:Brian Navarreto(C)
+2026-08-31,822689,2026-08-31T22:45:00Z,Pre-Game,WSH,MIA,1,702021,Will Dion,687473,Ryan Gusto,1:Daylen Lile(LF) | 2:Abimelec Ortiz(DH) | 3:Andrés Chaparro(1B) | 4:Keibert Ruiz(C) | 5:Brady House(3B) | 6:Jorbit Vivas(2B) | 7:Jacob Young(CF) | 8:Nasim Nuñez(SS) | 9:Andrew Pinckney(RF)
+2026-08-31,823663,2026-08-31T23:40:00Z,Pre-Game,DET,MIN,0,695549,Jackson Jobe,671737,Taj Bradley,1:Gleyber Torres(2B) | 2:Colt Keith(DH) | 3:Kevin McGonigle(SS) | 4:Dillon Dingler(C) | 5:Brett Callahan(LF) | 6:Zach McKinstry(RF) | 7:Spencer Torkelson(1B) | 8:Max Clark(CF) | 9:Hao-Yu Lee(3B)
+2026-08-31,823663,2026-08-31T23:40:00Z,Pre-Game,MIN,DET,1,671737,Taj Bradley,695549,Jackson Jobe,1:Luke Keaschall(RF) | 2:Brooks Lee(3B) | 3:Kody Clemens(2B) | 4:Ryan Jeffers(C) | 5:Josh Bell(DH) | 6:Trevor Larnach(LF) | 7:Royce Lewis(1B) | 8:Kaelen Culpepper(SS) | 9:Walker Jenkins(CF)
+2026-08-31,824635,2026-08-31T23:40:00Z,Pre-Game,MIL,CHC,0,690986,Kyle Harrison,605280,Clay Holmes,1:Brice Turang(2B) | 2:Jackson Chourio(LF) | 3:Jake Bauers(1B) | 4:William Contreras(C) | 5:Christian Yelich(DH) | 6:Garrett Mitchell(CF) | 7:Sal Frelick(RF) | 8:David Hamilton(3B) | 9:Cooper Pratt(SS)
+2026-08-31,824635,2026-08-31T23:40:00Z,Pre-Game,CHC,MIL,1,605280,Clay Holmes,690986,Kyle Harrison,1:Pete Crow-Armstrong(CF) | 2:Seiya Suzuki(RF) | 3:Alex Bregman(3B) | 4:Tyrone Taylor(LF) | 5:Nico Hoerner(SS) | 6:Michael Busch(1B) | 7:Carson Kelly(C) | 8:Miguel Amaya(DH) | 9:Matt Shaw(2B)
+2026-08-31,822855,2026-09-01T00:05:00Z,Pre-Game,ATH,TEX,0,695611,Gage Jump,594798,Jacob deGrom,1:Henry Bolte(CF) | 2:Jeff McNeil(2B) | 3:Zack Gelof(3B) | 4:Lawrence Butler(RF) | 5:Tommy White(1B) | 6:Max Muncy(DH) | 7:Carlos Cortes(LF) | 8:Jonah Heim(C) | 9:Darell Hernaiz(SS)
+2026-08-31,822855,2026-09-01T00:05:00Z,Pre-Game,TEX,ATH,1,594798,Jacob deGrom,695611,Gage Jump,1:Ezequiel Duran(CF) | 2:Corey Seager(SS) | 3:Wyatt Langford(LF) | 4:Brandon Nimmo(RF) | 5:Jake Burger(1B) | 6:Justin Foscue(2B) | 7:Elias Díaz(DH) | 8:Cody Freeman(3B) | 9:Danny Jansen(C)
+2026-08-31,824149,2026-09-01T00:10:00Z,Pre-Game,CWS,HOU,0,641743,Anthony Kay,663567,Peter Lambert,1:Sam Antonacci(LF) | 2:Munetaka Murakami(1B) | 3:Miguel Vargas(3B) | 4:Andrew Benintendi(DH) | 5:Braden Montgomery(RF) | 6:Colson Montgomery(SS) | 7:Chase Meidroth(2B) | 8:Tristan Peters(CF) | 9:Jake Rogers(C)
+2026-08-31,824149,2026-09-01T00:10:00Z,Pre-Game,HOU,CWS,1,663567,Peter Lambert,641743,Anthony Kay,1:Jeremy Peña(SS) | 2:Yordan Alvarez(DH) | 3:Isaac Paredes(3B) | 4:Christian Walker(1B) | 5:Daulton Varsho(CF) | 6:Cam Smith(RF) | 7:Nelson Velázquez(LF) | 8:Nick Allen(2B) | 9:Christian Vázquez(C)
+2026-08-31,824314,2026-09-01T00:40:00Z,Pre-Game,BAL,COL,0,700249,Cade Povich,685299,Tanner Gordon,1:Jackson Holliday(2B) | 2:Pete Alonso(1B) | 3:Gunnar Henderson(SS) | 4:Coby Mayo(DH) | 5:Dylan Beavers(LF) | 6:Samuel Basallo(C) | 7:Blaze Alexander(3B) | 8:Colton Cowser(CF) | 9:Leody Taveras(RF)
+2026-08-31,824314,2026-09-01T00:40:00Z,Pre-Game,COL,BAL,1,685299,Tanner Gordon,700249,Cade Povich,1:Jake McCarthy(CF) | 2:Connor Norby(2B) | 3:Hunter Goodman(C) | 4:TJ Rumfield(1B) | 5:Willi Castro(3B) | 6:Mickey Moniak(RF) | 7:Jordan Beck(LF) | 8:Troy Johnston(DH) | 9:Ezequiel Tovar(SS)
+2026-08-31,823982,2026-09-01T01:38:00Z,Pre-Game,NYY,LAA,0,695684,Elmer Rodríguez,700712,Walbert Ureña,
+2026-08-31,823982,2026-09-01T01:38:00Z,Pre-Game,LAA,NYY,1,700712,Walbert Ureña,695684,Elmer Rodríguez,1:Zach Neto(SS) | 2:Mike Trout(CF) | 3:Wade Meckler(LF) | 4:Vaughn Grissom(1B) | 5:Moisés Ballesteros(DH) | 6:Christian Moore(2B) | 7:Josh Lowe(RF) | 8:Oswald Peraza(3B) | 9:Tyler Heineman(C)
+2026-08-31,825040,2026-09-01T01:40:00Z,Scheduled,PHI,AZ,0,605400,Aaron Nola,694297,Brandon Pfaadt,
+2026-08-31,825040,2026-09-01T01:40:00Z,Scheduled,AZ,PHI,1,694297,Brandon Pfaadt,605400,Aaron Nola,
