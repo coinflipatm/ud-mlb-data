@@ -1,11 +1,11 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-09-10,824872,2026-09-10T16:15:00Z,Scheduled,TB,ATL,0,607259,Nick Martinez,527048,Martín Pérez,
-2026-09-10,824872,2026-09-10T16:15:00Z,Scheduled,ATL,TB,1,527048,Martín Pérez,607259,Nick Martinez,
-2026-09-10,823413,2026-09-10T17:05:00Z,Scheduled,HOU,PHI,0,664299,Cristian Javier,554430,Zack Wheeler,
-2026-09-10,823413,2026-09-10T17:05:00Z,Scheduled,PHI,HOU,1,554430,Zack Wheeler,664299,Cristian Javier,
-2026-09-10,823088,2026-09-10T20:10:00Z,Scheduled,TEX,SEA,0,594798,Jacob deGrom,669302,Logan Gilbert,
-2026-09-10,823088,2026-09-10T20:10:00Z,Scheduled,SEA,TEX,1,669302,Logan Gilbert,594798,Jacob deGrom,
-2026-09-10,823499,2026-09-10T23:05:00Z,Scheduled,COL,NYY,0,663372,Ryan Feltner,608331,Max Fried,
-2026-09-10,823499,2026-09-10T23:05:00Z,Scheduled,NYY,COL,1,608331,Max Fried,663372,Ryan Feltner,
-2026-09-10,824550,2026-09-10T23:40:00Z,Scheduled,PIT,CWS,0,683003,Jared Jones,696146,Hagen Smith,
-2026-09-10,824550,2026-09-10T23:40:00Z,Scheduled,CWS,PIT,1,696146,Hagen Smith,683003,Jared Jones,
+2026-09-10,824872,2026-09-10T16:15:00Z,Final,TB,ATL,0,607259,Nick Martinez,527048,Martín Pérez,1:Yandy Díaz(DH) | 2:Ryan Vilade(1B) | 3:Junior Caminero(3B) | 4:Jonny DeLuca(RF) | 5:Chandler Simpson(LF) | 6:Nick Madrigal(2B) | 7:Jorge Mateo(SS) | 8:Nick Fortes(C) | 9:Cedric Mullins(CF)
+2026-09-10,824872,2026-09-10T16:15:00Z,Final,ATL,TB,1,527048,Martín Pérez,607259,Nick Martinez,1:Drake Baldwin(C) | 2:Ronald Acuña Jr.(RF) | 3:Matt Olson(1B) | 4:Michael Harris II(CF) | 5:Mauricio Dubón(2B) | 6:Dominic Smith(DH) | 7:Austin Riley(3B) | 8:Brewer Hicklen(LF) | 9:Ha-Seong Kim(SS)
+2026-09-10,823413,2026-09-10T17:05:00Z,Final,HOU,PHI,0,664299,Cristian Javier,554430,Zack Wheeler,1:Jeremy Peña(SS) | 2:Yordan Alvarez(DH) | 3:Isaac Paredes(3B) | 4:Jose Altuve(2B) | 5:Daulton Varsho(CF) | 6:Christian Walker(1B) | 7:Cam Smith(RF) | 8:Taylor Trammell(LF) | 9:Christian Vázquez(C)
+2026-09-10,823413,2026-09-10T17:05:00Z,Final,PHI,HOU,1,554430,Zack Wheeler,664299,Cristian Javier,1:Kyle Schwarber(DH) | 2:Trea Turner(SS) | 3:Bryce Harper(RF) | 4:Luis Arraez(2B) | 5:Alec Bohm(1B) | 6:Bryson Stott(3B) | 7:Brandon Marsh(LF) | 8:Justin Crawford(CF) | 9:Rafael Marchán(C)
+2026-09-10,823088,2026-09-10T20:10:00Z,In Progress,TEX,SEA,0,594798,Jacob deGrom,669302,Logan Gilbert,1:Joc Pederson(DH) | 2:Corey Seager(SS) | 3:Ezequiel Duran(3B) | 4:Brandon Nimmo(RF) | 5:Wyatt Langford(LF) | 6:Evan Carter(CF) | 7:Jake Burger(1B) | 8:Nicky Lopez(2B) | 9:Danny Jansen(C)
+2026-09-10,823088,2026-09-10T20:10:00Z,In Progress,SEA,TEX,1,669302,Logan Gilbert,594798,Jacob deGrom,1:J.P. Crawford(SS) | 2:Randy Arozarena(LF) | 3:Dominic Canzone(DH) | 4:Cal Raleigh(C) | 5:Julio Rodríguez(CF) | 6:Josh Naylor(1B) | 7:Cole Young(2B) | 8:Lazaro Montes(RF) | 9:Brock Rodden(3B)
+2026-09-10,823499,2026-09-10T23:05:00Z,Pre-Game,COL,NYY,0,663372,Ryan Feltner,608331,Max Fried,1:Jake McCarthy(LF) | 2:Connor Norby(2B) | 3:Hunter Goodman(C) | 4:TJ Rumfield(1B) | 5:Cole Carrigg(CF) | 6:Kyle Karros(3B) | 7:Adael Amador(DH) | 8:Jordan Beck(RF) | 9:Ezequiel Tovar(SS)
+2026-09-10,823499,2026-09-10T23:05:00Z,Pre-Game,NYY,COL,1,608331,Max Fried,663372,Ryan Feltner,1:Ben Rice(DH) | 2:Cody Bellinger(LF) | 3:Jasson Domínguez(RF) | 4:Luis García Jr.(1B) | 5:Spencer Jones(CF) | 6:George Lombard Jr.(SS) | 7:Ryan McMahon(3B) | 8:Austin Wells(C) | 9:Anthony Volpe(2B)
+2026-09-10,824550,2026-09-10T23:40:00Z,Pre-Game,PIT,CWS,0,683003,Jared Jones,696146,Hagen Smith,1:Konnor Griffin(DH) | 2:Oneil Cruz(CF) | 3:Bryan Reynolds(LF) | 4:Nick Gonzales(3B) | 5:Brandon Lowe(2B) | 6:Rafael Flores Jr.(C) | 7:Jake Mangum(RF) | 8:Spencer Horwitz(1B) | 9:Jared Triolo(SS)
+2026-09-10,824550,2026-09-10T23:40:00Z,Pre-Game,CWS,PIT,1,696146,Hagen Smith,683003,Jared Jones,1:Sam Antonacci(LF) | 2:Miguel Vargas(3B) | 3:Munetaka Murakami(1B) | 4:Andrew Benintendi(DH) | 5:Colson Montgomery(SS) | 6:Braden Montgomery(RF) | 7:Chase Meidroth(2B) | 8:Tristan Peters(CF) | 9:Jake Rogers(C)
