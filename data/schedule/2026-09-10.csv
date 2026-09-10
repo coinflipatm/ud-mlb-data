@@ -1,0 +1,11 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-09-10,824872,2026-09-10T16:15:00Z,Scheduled,TB,ATL,0,607259,Nick Martinez,527048,Martín Pérez,
+2026-09-10,824872,2026-09-10T16:15:00Z,Scheduled,ATL,TB,1,527048,Martín Pérez,607259,Nick Martinez,
+2026-09-10,823413,2026-09-10T17:05:00Z,Scheduled,HOU,PHI,0,664299,Cristian Javier,554430,Zack Wheeler,
+2026-09-10,823413,2026-09-10T17:05:00Z,Scheduled,PHI,HOU,1,554430,Zack Wheeler,664299,Cristian Javier,
+2026-09-10,823088,2026-09-10T20:10:00Z,Scheduled,TEX,SEA,0,594798,Jacob deGrom,669302,Logan Gilbert,
+2026-09-10,823088,2026-09-10T20:10:00Z,Scheduled,SEA,TEX,1,669302,Logan Gilbert,594798,Jacob deGrom,
+2026-09-10,823499,2026-09-10T23:05:00Z,Scheduled,COL,NYY,0,663372,Ryan Feltner,608331,Max Fried,
+2026-09-10,823499,2026-09-10T23:05:00Z,Scheduled,NYY,COL,1,608331,Max Fried,663372,Ryan Feltner,
+2026-09-10,824550,2026-09-10T23:40:00Z,Scheduled,PIT,CWS,0,683003,Jared Jones,696146,Hagen Smith,
+2026-09-10,824550,2026-09-10T23:40:00Z,Scheduled,CWS,PIT,1,696146,Hagen Smith,683003,Jared Jones,
