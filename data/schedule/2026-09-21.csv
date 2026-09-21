@@ -1,7 +1,7 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-09-21,824787,2026-09-21T22:35:00Z,Scheduled,TOR,BAL,0,702056,Trey Yesavage,669358,Shane Baz,
-2026-09-21,824787,2026-09-21T22:35:00Z,Scheduled,BAL,TOR,1,669358,Shane Baz,702056,Trey Yesavage,
-2026-09-21,824221,2026-09-21T22:40:00Z,Scheduled,WSH,DET,0,687792,DJ Herz,689981,River Ryan,
-2026-09-21,824221,2026-09-21T22:40:00Z,Scheduled,DET,WSH,1,689981,River Ryan,687792,DJ Herz,
-2026-09-21,823169,2026-09-22T01:45:00Z,Scheduled,MIN,SF,0,805673,Zebby Matthews,694918,Blade Tidwell,
-2026-09-21,823169,2026-09-22T01:45:00Z,Scheduled,SF,MIN,1,694918,Blade Tidwell,805673,Zebby Matthews,
+2026-09-21,824787,2026-09-21T22:35:00Z,Delayed Start,TOR,BAL,0,702056,Trey Yesavage,669358,Shane Baz,1:Brett Bateman(CF) | 2:Alejandro Kirk(C) | 3:Nathan Lukes(RF) | 4:George Springer(DH) | 5:Sean Keys(1B) | 6:Kazuma Okamoto(3B) | 7:Josh Smith(LF) | 8:Andrés Giménez(SS) | 9:Ernie Clement(2B)
+2026-09-21,824787,2026-09-21T22:35:00Z,Delayed Start,BAL,TOR,1,669358,Shane Baz,702056,Trey Yesavage,1:Dylan Beavers(LF) | 2:Pete Alonso(1B) | 3:Gunnar Henderson(SS) | 4:Coby Mayo(DH) | 5:Christian Encarnacion-Strand(3B) | 6:Samuel Basallo(C) | 7:Rece Hinds(RF) | 8:Colton Cowser(CF) | 9:José Barrero(2B)
+2026-09-21,824221,2026-09-21T22:40:00Z,Pre-Game,WSH,DET,0,687792,DJ Herz,689981,River Ryan,1:James Wood(LF) | 2:Daylen Lile(DH) | 3:Abimelec Ortiz(1B) | 4:CJ Abrams(SS) | 5:Dylan Crews(RF) | 6:Jorbit Vivas(2B) | 7:Brady House(3B) | 8:Keibert Ruiz(C) | 9:Jacob Young(CF)
+2026-09-21,824221,2026-09-21T22:40:00Z,Pre-Game,DET,WSH,1,689981,River Ryan,687792,DJ Herz,1:Gleyber Torres(2B) | 2:Hao-Yu Lee(3B) | 3:Riley Greene(LF) | 4:Eduardo Valencia(DH) | 5:Ben Malgeri(RF) | 6:Dillon Dingler(C) | 7:Spencer Torkelson(1B) | 8:Javier Báez(CF) | 9:John Peck(SS)
+2026-09-21,823169,2026-09-22T01:45:00Z,Pre-Game,MIN,SF,0,805673,Zebby Matthews,694918,Blade Tidwell,1:Walker Jenkins(CF) | 2:Luke Keaschall(RF) | 3:Brooks Lee(3B) | 4:Kody Clemens(2B) | 5:Ryan Jeffers(C) | 6:Alan Roden(DH) | 7:Aaron Sabato(1B) | 8:Emmanuel Rodriguez(LF) | 9:Ryan Kreidler(SS)
+2026-09-21,823169,2026-09-22T01:45:00Z,Pre-Game,SF,MIN,1,694918,Blade Tidwell,805673,Zebby Matthews,
