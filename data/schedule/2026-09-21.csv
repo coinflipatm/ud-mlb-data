@@ -1,0 +1,7 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-09-21,824787,2026-09-21T22:35:00Z,Scheduled,TOR,BAL,0,702056,Trey Yesavage,669358,Shane Baz,
+2026-09-21,824787,2026-09-21T22:35:00Z,Scheduled,BAL,TOR,1,669358,Shane Baz,702056,Trey Yesavage,
+2026-09-21,824221,2026-09-21T22:40:00Z,Scheduled,WSH,DET,0,687792,DJ Herz,689981,River Ryan,
+2026-09-21,824221,2026-09-21T22:40:00Z,Scheduled,DET,WSH,1,689981,River Ryan,687792,DJ Herz,
+2026-09-21,823169,2026-09-22T01:45:00Z,Scheduled,MIN,SF,0,805673,Zebby Matthews,694918,Blade Tidwell,
+2026-09-21,823169,2026-09-22T01:45:00Z,Scheduled,SF,MIN,1,694918,Blade Tidwell,805673,Zebby Matthews,
