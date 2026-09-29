@@ -1,0 +1,9 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-09-29,849845,2026-09-29T18:00:00Z,Scheduled,PHI,ATL,0,666200,Jesús Luzardo,519242,Chris Sale,
+2026-09-29,849845,2026-09-29T18:00:00Z,Scheduled,ATL,PHI,1,519242,Chris Sale,666200,Jesús Luzardo,
+2026-09-29,849849,2026-09-29T21:00:00Z,Scheduled,CWS,HOU,0,696146,Hagen Smith,805123,AJ Blubaugh,
+2026-09-29,849849,2026-09-29T21:00:00Z,Scheduled,HOU,CWS,1,805123,AJ Blubaugh,696146,Hagen Smith,
+2026-09-29,849851,2026-09-30T00:00:00Z,Scheduled,BOS,NYY,0,801139,Payton Tolle,693645,Cam Schlittler,
+2026-09-29,849851,2026-09-30T00:00:00Z,Scheduled,NYY,BOS,1,693645,Cam Schlittler,801139,Payton Tolle,
+2026-09-29,849843,2026-09-30T02:00:00Z,Scheduled,CHC,SD,0,571510,Matthew Boyd,650633,Michael King,
+2026-09-29,849843,2026-09-30T02:00:00Z,Scheduled,SD,CHC,1,650633,Michael King,571510,Matthew Boyd,
