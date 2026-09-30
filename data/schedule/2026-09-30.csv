@@ -1,9 +1,9 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-09-30,849841,2026-09-30T18:00:00Z,Scheduled,PHI,ATL,0,650911,Cristopher Sánchez,641816,Tyler Mahle,
-2026-09-30,849841,2026-09-30T18:00:00Z,Scheduled,ATL,PHI,1,641816,Tyler Mahle,650911,Cristopher Sánchez,
-2026-09-30,849846,2026-09-30T21:00:00Z,Scheduled,CWS,HOU,0,680732,Sean Burke,686613,Hunter Brown,
-2026-09-30,849846,2026-09-30T21:00:00Z,Scheduled,HOU,CWS,1,686613,Hunter Brown,680732,Sean Burke,
-2026-09-30,849848,2026-10-01T00:00:00Z,Scheduled,BOS,NYY,0,543243,Sonny Gray,608331,Max Fried,
-2026-09-30,849848,2026-10-01T00:00:00Z,Scheduled,NYY,BOS,1,608331,Max Fried,543243,Sonny Gray,
-2026-09-30,849842,2026-10-01T02:00:00Z,Scheduled,CHC,SD,0,592332,Kevin Gausman,601713,Nick Pivetta,
-2026-09-30,849842,2026-10-01T02:00:00Z,Scheduled,SD,CHC,1,601713,Nick Pivetta,592332,Kevin Gausman,
+2026-09-30,849841,2026-09-30T18:00:00Z,Final,PHI,ATL,0,650911,Cristopher Sánchez,641816,Tyler Mahle,1:Trea Turner(SS) | 2:Kyle Schwarber(DH) | 3:Bryce Harper(RF) | 4:Alec Bohm(1B) | 5:Bryson Stott(2B) | 6:Brandon Marsh(LF) | 7:Edmundo Sosa(3B) | 8:Justin Crawford(CF) | 9:J.T. Realmuto(C)
+2026-09-30,849841,2026-09-30T18:00:00Z,Final,ATL,PHI,1,641816,Tyler Mahle,650911,Cristopher Sánchez,1:Ronald Acuña Jr.(RF) | 2:Drake Baldwin(DH) | 3:Ozzie Albies(2B) | 4:Matt Olson(1B) | 5:Mauricio Dubón(LF) | 6:Austin Riley(3B) | 7:Michael Harris II(CF) | 8:Sean Murphy(C) | 9:Ha-Seong Kim(SS)
+2026-09-30,849846,2026-09-30T21:00:00Z,In Progress,CWS,HOU,0,680732,Sean Burke,686613,Hunter Brown,1:Sam Antonacci(LF) | 2:Kyle Teel(C) | 3:Miguel Vargas(3B) | 4:Munetaka Murakami(1B) | 5:Andrew Benintendi(DH) | 6:Tristan Peters(CF) | 7:Chase Meidroth(2B) | 8:Braden Montgomery(RF) | 9:Colson Montgomery(SS)
+2026-09-30,849846,2026-09-30T21:00:00Z,In Progress,HOU,CWS,1,686613,Hunter Brown,680732,Sean Burke,1:Jeremy Peña(SS) | 2:Yordan Alvarez(LF) | 3:Isaac Paredes(DH) | 4:Jose Altuve(2B) | 5:Yainer Diaz(C) | 6:Christian Walker(1B) | 7:Lucas Spence(CF) | 8:Cam Smith(RF) | 9:Nick Allen(3B)
+2026-09-30,849848,2026-10-01T00:00:00Z,Pre-Game,BOS,NYY,0,543243,Sonny Gray,608331,Max Fried,1:Jahmai Jones(DH) | 2:Adley Rutschman(C) | 3:Willson Contreras(1B) | 4:Wilyer Abreu(RF) | 5:Ceddanne Rafaela(CF) | 6:Caleb Durbin(3B) | 7:Nick Sogard(2B) | 8:Trevor Story(SS) | 9:Nate Eaton(LF)
+2026-09-30,849848,2026-10-01T00:00:00Z,Pre-Game,NYY,BOS,1,608331,Max Fried,543243,Sonny Gray,1:Ben Rice(DH) | 2:Cody Bellinger(LF) | 3:Luis García Jr.(1B) | 4:Spencer Jones(RF) | 5:George Lombard Jr.(SS) | 6:Jazz Chisholm Jr.(2B) | 7:Trent Grisham(CF) | 8:Austin Wells(C) | 9:Ryan McMahon(3B)
+2026-09-30,849842,2026-10-01T02:00:00Z,Pre-Game,CHC,SD,0,592332,Kevin Gausman,601713,Nick Pivetta,
+2026-09-30,849842,2026-10-01T02:00:00Z,Pre-Game,SD,CHC,1,601713,Nick Pivetta,592332,Kevin Gausman,1:Fernando Tatis Jr.(RF) | 2:Dustin Harris(LF) | 3:Manny Machado(3B) | 4:Ty France(1B) | 5:Jackson Merrill(CF) | 6:Xander Bogaerts(SS) | 7:Ethan Salas(C) | 8:Austin Hays(DH) | 9:Jake Cronenworth(2B)
