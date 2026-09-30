@@ -1,0 +1,9 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-09-30,849841,2026-09-30T18:00:00Z,Scheduled,PHI,ATL,0,650911,Cristopher Sánchez,641816,Tyler Mahle,
+2026-09-30,849841,2026-09-30T18:00:00Z,Scheduled,ATL,PHI,1,641816,Tyler Mahle,650911,Cristopher Sánchez,
+2026-09-30,849846,2026-09-30T21:00:00Z,Scheduled,CWS,HOU,0,680732,Sean Burke,686613,Hunter Brown,
+2026-09-30,849846,2026-09-30T21:00:00Z,Scheduled,HOU,CWS,1,686613,Hunter Brown,680732,Sean Burke,
+2026-09-30,849848,2026-10-01T00:00:00Z,Scheduled,BOS,NYY,0,543243,Sonny Gray,608331,Max Fried,
+2026-09-30,849848,2026-10-01T00:00:00Z,Scheduled,NYY,BOS,1,608331,Max Fried,543243,Sonny Gray,
+2026-09-30,849842,2026-10-01T02:00:00Z,Scheduled,CHC,SD,0,592332,Kevin Gausman,601713,Nick Pivetta,
+2026-09-30,849842,2026-10-01T02:00:00Z,Scheduled,SD,CHC,1,601713,Nick Pivetta,592332,Kevin Gausman,
