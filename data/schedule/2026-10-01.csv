@@ -1,0 +1,3 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-01,849844,2026-10-02T00:00:00Z,Scheduled,PHI,ATL,0,,,,,
+2026-10-01,849844,2026-10-02T00:00:00Z,Scheduled,ATL,PHI,1,,,,,
