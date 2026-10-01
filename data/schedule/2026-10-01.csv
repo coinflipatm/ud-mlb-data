@@ -1,3 +1,3 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-01,849844,2026-10-02T00:00:00Z,Scheduled,PHI,ATL,0,,,,,
-2026-10-01,849844,2026-10-02T00:00:00Z,Scheduled,ATL,PHI,1,,,,,
+2026-10-01,849844,2026-10-02T00:00:00Z,Pre-Game,PHI,ATL,0,605400,Aaron Nola,678061,Ray Kerr,1:Trea Turner(SS) | 2:Kyle Schwarber(DH) | 3:Bryce Harper(RF) | 4:Alec Bohm(1B) | 5:Bryson Stott(2B) | 6:Bryan De La Cruz(LF) | 7:Edmundo Sosa(3B) | 8:J.T. Realmuto(C) | 9:Justin Crawford(CF)
+2026-10-01,849844,2026-10-02T00:00:00Z,Pre-Game,ATL,PHI,1,678061,Ray Kerr,605400,Aaron Nola,1:Drake Baldwin(C) | 2:Ronald Acuña Jr.(RF) | 3:Matt Olson(1B) | 4:Michael Harris II(CF) | 5:Mauricio Dubón(SS) | 6:Mike Yastrzemski(LF) | 7:Austin Riley(3B) | 8:Ozzie Albies(2B) | 9:Dominic Smith(DH)
