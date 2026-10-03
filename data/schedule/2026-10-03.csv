@@ -1,0 +1,9 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-03,849829,2026-10-03T17:00:00Z,Scheduled,CWS,CLE,0,696146,Hagen Smith,800048,Parker Messick,
+2026-10-03,849829,2026-10-03T17:00:00Z,Scheduled,CLE,CWS,1,800048,Parker Messick,696146,Hagen Smith,
+2026-10-03,849828,2026-10-03T20:00:00Z,Scheduled,ATL,LAD,0,,,669373,Tarik Skubal,
+2026-10-03,849828,2026-10-03T20:00:00Z,Scheduled,LAD,ATL,1,669373,Tarik Skubal,,,
+2026-10-03,849835,2026-10-03T22:30:00Z,Scheduled,NYY,TB,0,543037,Gerrit Cole,656876,Drew Rasmussen,
+2026-10-03,849835,2026-10-03T22:30:00Z,Scheduled,TB,NYY,1,656876,Drew Rasmussen,543037,Gerrit Cole,
+2026-10-03,849830,2026-10-04T00:30:00Z,Scheduled,SD,MIL,0,592662,Robbie Ray,694819,Jacob Misiorowski,
+2026-10-03,849830,2026-10-04T00:30:00Z,Scheduled,MIL,SD,1,694819,Jacob Misiorowski,592662,Robbie Ray,
