@@ -1,5 +1,5 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-04,849825,2026-10-04T20:00:00Z,Scheduled,SD,MIL,0,650633,Michael King,701656,Logan Henderson,
-2026-10-04,849825,2026-10-04T20:00:00Z,Scheduled,MIL,SD,1,701656,Logan Henderson,650633,Michael King,
-2026-10-04,849823,2026-10-05T00:00:00Z,Scheduled,ATL,LAD,0,,,605483,Blake Snell,
-2026-10-04,849823,2026-10-05T00:00:00Z,Scheduled,LAD,ATL,1,605483,Blake Snell,,,
+2026-10-04,849825,2026-10-04T20:00:00Z,In Progress,SD,MIL,0,650633,Michael King,701656,Logan Henderson,1:Fernando Tatis Jr.(RF) | 2:Dustin Harris(LF) | 3:Manny Machado(3B) | 4:Ty France(1B) | 5:Jackson Merrill(CF) | 6:Gavin Sheets(DH) | 7:Xander Bogaerts(SS) | 8:Luis Campusano(C) | 9:Jake Cronenworth(2B)
+2026-10-04,849825,2026-10-04T20:00:00Z,In Progress,MIL,SD,1,701656,Logan Henderson,650633,Michael King,1:Jackson Chourio(LF) | 2:Brice Turang(2B) | 3:Jake Bauers(1B) | 4:William Contreras(C) | 5:Garrett Mitchell(CF) | 6:Christian Yelich(DH) | 7:Sal Frelick(RF) | 8:Cooper Pratt(SS) | 9:David Hamilton(3B)
+2026-10-04,849823,2026-10-05T00:00:00Z,Pre-Game,ATL,LAD,0,678061,Ray Kerr,605483,Blake Snell,1:Drake Baldwin(C) | 2:Ronald Acuña Jr.(RF) | 3:Matt Olson(1B) | 4:Ozzie Albies(2B) | 5:Michael Harris II(CF) | 6:Mauricio Dubón(SS) | 7:Sean Murphy(DH) | 8:Austin Riley(3B) | 9:Lane Thomas(LF)
+2026-10-04,849823,2026-10-05T00:00:00Z,Pre-Game,LAD,ATL,1,605483,Blake Snell,678061,Ray Kerr,1:Mookie Betts(SS) | 2:Shohei Ohtani(DH) | 3:Will Smith(C) | 4:Freddie Freeman(1B) | 5:Teoscar Hernández(LF) | 6:Kyle Tucker(RF) | 7:Andy Pages(CF) | 8:Miguel Rojas(3B) | 9:Tommy Edman(2B)
