@@ -1,0 +1,5 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-04,849825,2026-10-04T20:00:00Z,Scheduled,SD,MIL,0,650633,Michael King,701656,Logan Henderson,
+2026-10-04,849825,2026-10-04T20:00:00Z,Scheduled,MIL,SD,1,701656,Logan Henderson,650633,Michael King,
+2026-10-04,849823,2026-10-05T00:00:00Z,Scheduled,ATL,LAD,0,,,605483,Blake Snell,
+2026-10-04,849823,2026-10-05T00:00:00Z,Scheduled,LAD,ATL,1,605483,Blake Snell,,,
