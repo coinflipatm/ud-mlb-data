@@ -1,0 +1,5 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-05,849834,2026-10-05T21:00:00Z,Scheduled,CWS,CLE,0,641743,Anthony Kay,668909,Gavin Williams,
+2026-10-05,849834,2026-10-05T21:00:00Z,Scheduled,CLE,CWS,1,668909,Gavin Williams,641743,Anthony Kay,
+2026-10-05,849839,2026-10-06T00:00:00Z,Scheduled,NYY,TB,0,693645,Cam Schlittler,642547,Freddy Peralta,
+2026-10-05,849839,2026-10-06T00:00:00Z,Scheduled,TB,NYY,1,642547,Freddy Peralta,693645,Cam Schlittler,
