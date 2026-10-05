@@ -1,5 +1,5 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-05,849834,2026-10-05T21:00:00Z,Scheduled,CWS,CLE,0,641743,Anthony Kay,668909,Gavin Williams,
-2026-10-05,849834,2026-10-05T21:00:00Z,Scheduled,CLE,CWS,1,668909,Gavin Williams,641743,Anthony Kay,
-2026-10-05,849839,2026-10-06T00:00:00Z,Scheduled,NYY,TB,0,693645,Cam Schlittler,642547,Freddy Peralta,
-2026-10-05,849839,2026-10-06T00:00:00Z,Scheduled,TB,NYY,1,642547,Freddy Peralta,693645,Cam Schlittler,
+2026-10-05,849834,2026-10-05T21:00:00Z,In Progress,CWS,CLE,0,641743,Anthony Kay,668909,Gavin Williams,1:Sam Antonacci(LF) | 2:Kyle Teel(C) | 3:Miguel Vargas(3B) | 4:Munetaka Murakami(1B) | 5:Andrew Benintendi(DH) | 6:Tristan Peters(CF) | 7:Braden Montgomery(RF) | 8:Chase Meidroth(2B) | 9:Colson Montgomery(SS)
+2026-10-05,849834,2026-10-05T21:00:00Z,In Progress,CLE,CWS,1,668909,Gavin Williams,641743,Anthony Kay,1:Steven Kwan(CF) | 2:José Ramírez(3B) | 3:Chase DeLauter(RF) | 4:Jo Adell(DH) | 5:Nathaniel Lowe(1B) | 6:Angel Martínez(LF) | 7:Travis Bazzana(2B) | 8:Patrick Bailey(C) | 9:Brayan Rocchio(SS)
+2026-10-05,849839,2026-10-06T00:00:00Z,Pre-Game,NYY,TB,0,693645,Cam Schlittler,642547,Freddy Peralta,1:Ben Rice(DH) | 2:Cody Bellinger(LF) | 3:Luis García Jr.(1B) | 4:Spencer Jones(RF) | 5:George Lombard Jr.(SS) | 6:Jazz Chisholm Jr.(2B) | 7:Trent Grisham(CF) | 8:Austin Wells(C) | 9:Ryan McMahon(3B)
+2026-10-05,849839,2026-10-06T00:00:00Z,Pre-Game,TB,NYY,1,642547,Freddy Peralta,693645,Cam Schlittler,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Liam Hicks(C) | 5:Chandler Simpson(LF) | 6:Victor Mesa Jr.(RF) | 7:Jonny DeLuca(CF) | 8:Richie Palacios(2B) | 9:Taylor Walls(SS)
