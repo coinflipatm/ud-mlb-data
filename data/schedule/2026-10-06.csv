@@ -1,5 +1,5 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-06,849819,2026-10-06T22:00:00Z,Scheduled,LAD,ATL,0,808967,Yoshinobu Yamamoto,519242,Chris Sale,
-2026-10-06,849819,2026-10-06T22:00:00Z,Scheduled,ATL,LAD,1,519242,Chris Sale,808967,Yoshinobu Yamamoto,
-2026-10-06,849826,2026-10-07T01:30:00Z,Scheduled,MIL,SD,0,669160,Dustin May,601713,Nick Pivetta,
-2026-10-06,849826,2026-10-07T01:30:00Z,Scheduled,SD,MIL,1,601713,Nick Pivetta,669160,Dustin May,
+2026-10-06,849819,2026-10-06T22:00:00Z,Warmup,LAD,ATL,0,808967,Yoshinobu Yamamoto,519242,Chris Sale,1:Mookie Betts(SS) | 2:Freddie Freeman(1B) | 3:Teoscar Hernández(LF) | 4:Will Smith(C) | 5:Shohei Ohtani(DH) | 6:Miguel Rojas(2B) | 7:Andy Pages(CF) | 8:Kyle Tucker(RF) | 9:Enrique Hernández(3B)
+2026-10-06,849819,2026-10-06T22:00:00Z,Warmup,ATL,LAD,1,519242,Chris Sale,808967,Yoshinobu Yamamoto,1:Drake Baldwin(C) | 2:Ronald Acuña Jr.(DH) | 3:Matt Olson(1B) | 4:Ozzie Albies(2B) | 5:Michael Harris II(CF) | 6:Mauricio Dubón(LF) | 7:Lane Thomas(RF) | 8:Austin Riley(3B) | 9:Ha-Seong Kim(SS)
+2026-10-06,849826,2026-10-07T01:30:00Z,Pre-Game,MIL,SD,0,669160,Dustin May,601713,Nick Pivetta,1:Jackson Chourio(LF) | 2:Jake Bauers(1B) | 3:William Contreras(C) | 4:Brice Turang(2B) | 5:Christian Yelich(DH) | 6:Garrett Mitchell(CF) | 7:Cooper Pratt(SS) | 8:Sal Frelick(RF) | 9:Joey Ortiz(3B)
+2026-10-06,849826,2026-10-07T01:30:00Z,Pre-Game,SD,MIL,1,601713,Nick Pivetta,669160,Dustin May,1:Fernando Tatis Jr.(RF) | 2:Jackson Merrill(CF) | 3:Manny Machado(3B) | 4:Ty France(1B) | 5:Ethan Salas(C) | 6:Gavin Sheets(DH) | 7:Xander Bogaerts(SS) | 8:Dustin Harris(LF) | 9:Jake Cronenworth(2B)
