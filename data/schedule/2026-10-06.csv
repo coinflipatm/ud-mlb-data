@@ -1,0 +1,5 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-06,849819,2026-10-06T22:00:00Z,Scheduled,LAD,ATL,0,808967,Yoshinobu Yamamoto,519242,Chris Sale,
+2026-10-06,849819,2026-10-06T22:00:00Z,Scheduled,ATL,LAD,1,519242,Chris Sale,808967,Yoshinobu Yamamoto,
+2026-10-06,849826,2026-10-07T01:30:00Z,Scheduled,MIL,SD,0,669160,Dustin May,601713,Nick Pivetta,
+2026-10-06,849826,2026-10-07T01:30:00Z,Scheduled,SD,MIL,1,601713,Nick Pivetta,669160,Dustin May,
