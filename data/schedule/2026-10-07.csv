@@ -1,0 +1,9 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-07,849833,2026-10-07T20:00:00Z,Scheduled,CLE,CWS,0,682982,Daniel Espino,656794,Sean Newcomb,
+2026-10-07,849833,2026-10-07T20:00:00Z,Scheduled,CWS,CLE,1,656794,Sean Newcomb,682982,Daniel Espino,
+2026-10-07,849822,2026-10-07T22:00:00Z,Scheduled,LAD,ATL,0,607192,Tyler Glasnow,641816,Tyler Mahle,
+2026-10-07,849822,2026-10-07T22:00:00Z,Scheduled,ATL,LAD,1,641816,Tyler Mahle,607192,Tyler Glasnow,
+2026-10-07,849838,2026-10-08T00:00:00Z,Scheduled,TB,NYY,0,607259,Nick Martinez,608331,Max Fried,
+2026-10-07,849838,2026-10-08T00:00:00Z,Scheduled,NYY,TB,1,608331,Max Fried,607259,Nick Martinez,
+2026-10-07,849827,2026-10-08T02:00:00Z,Scheduled,MIL,SD,0,,,621111,Walker Buehler,
+2026-10-07,849827,2026-10-08T02:00:00Z,Scheduled,SD,MIL,1,621111,Walker Buehler,,,
