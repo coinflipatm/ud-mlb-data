@@ -1,9 +1,9 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-07,849833,2026-10-07T20:00:00Z,Scheduled,CLE,CWS,0,682982,Daniel Espino,656794,Sean Newcomb,
-2026-10-07,849833,2026-10-07T20:00:00Z,Scheduled,CWS,CLE,1,656794,Sean Newcomb,682982,Daniel Espino,
-2026-10-07,849822,2026-10-07T22:00:00Z,Scheduled,LAD,ATL,0,607192,Tyler Glasnow,641816,Tyler Mahle,
-2026-10-07,849822,2026-10-07T22:00:00Z,Scheduled,ATL,LAD,1,641816,Tyler Mahle,607192,Tyler Glasnow,
-2026-10-07,849838,2026-10-08T00:00:00Z,Scheduled,TB,NYY,0,607259,Nick Martinez,608331,Max Fried,
-2026-10-07,849838,2026-10-08T00:00:00Z,Scheduled,NYY,TB,1,608331,Max Fried,607259,Nick Martinez,
-2026-10-07,849827,2026-10-08T02:00:00Z,Scheduled,MIL,SD,0,,,621111,Walker Buehler,
-2026-10-07,849827,2026-10-08T02:00:00Z,Scheduled,SD,MIL,1,621111,Walker Buehler,,,
+2026-10-07,849833,2026-10-07T20:00:00Z,In Progress,CLE,CWS,0,682982,Daniel Espino,656794,Sean Newcomb,1:Steven Kwan(CF) | 2:José Ramírez(3B) | 3:Chase DeLauter(RF) | 4:Jo Adell(DH) | 5:Nathaniel Lowe(1B) | 6:Angel Martínez(LF) | 7:Travis Bazzana(2B) | 8:Patrick Bailey(C) | 9:Brayan Rocchio(SS)
+2026-10-07,849833,2026-10-07T20:00:00Z,In Progress,CWS,CLE,1,656794,Sean Newcomb,682982,Daniel Espino,1:Sam Antonacci(DH) | 2:Miguel Vargas(3B) | 3:Munetaka Murakami(1B) | 4:Kyle Teel(C) | 5:Chase Meidroth(2B) | 6:Tristan Peters(CF) | 7:Braden Montgomery(RF) | 8:Randal Grichuk(LF) | 9:Colson Montgomery(SS)
+2026-10-07,849822,2026-10-07T22:00:00Z,Warmup,LAD,ATL,0,607192,Tyler Glasnow,641816,Tyler Mahle,1:Mookie Betts(SS) | 2:Freddie Freeman(1B) | 3:Will Smith(C) | 4:Shohei Ohtani(DH) | 5:Teoscar Hernández(LF) | 6:Max Muncy(3B) | 7:Enrique Hernández(2B) | 8:Kyle Tucker(RF) | 9:Andy Pages(CF)
+2026-10-07,849822,2026-10-07T22:00:00Z,Warmup,ATL,LAD,1,641816,Tyler Mahle,607192,Tyler Glasnow,1:Michael Harris II(CF) | 2:Ronald Acuña Jr.(RF) | 3:Matt Olson(1B) | 4:Ozzie Albies(2B) | 5:Drake Baldwin(DH) | 6:Mike Yastrzemski(LF) | 7:Mauricio Dubón(SS) | 8:Austin Riley(3B) | 9:Sean Murphy(C)
+2026-10-07,849838,2026-10-08T00:00:00Z,Pre-Game,TB,NYY,0,607259,Nick Martinez,608331,Max Fried,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Victor Mesa Jr.(LF) | 5:Ryan Vilade(RF) | 6:Liam Hicks(C) | 7:Jonny DeLuca(CF) | 8:Richie Palacios(2B) | 9:Taylor Walls(SS)
+2026-10-07,849838,2026-10-08T00:00:00Z,Pre-Game,NYY,TB,1,608331,Max Fried,607259,Nick Martinez,1:Trent Grisham(CF) | 2:Ben Rice(DH) | 3:Luis García Jr.(1B) | 4:Cody Bellinger(LF) | 5:George Lombard Jr.(SS) | 6:Austin Wells(C) | 7:Anthony Volpe(2B) | 8:Spencer Jones(RF) | 9:José Caballero(3B)
+2026-10-07,849827,2026-10-08T02:00:00Z,Pre-Game,MIL,SD,0,688107,Robert Gasser,621111,Walker Buehler,
+2026-10-07,849827,2026-10-08T02:00:00Z,Pre-Game,SD,MIL,1,621111,Walker Buehler,688107,Robert Gasser,1:Fernando Tatis Jr.(RF) | 2:Jackson Merrill(CF) | 3:Manny Machado(3B) | 4:Ty France(1B) | 5:Austin Hays(DH) | 6:Xander Bogaerts(SS) | 7:Luis Campusano(C) | 8:Jake Cronenworth(2B) | 9:Samad Taylor(LF)
