@@ -1,0 +1,3 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-08,849832,2026-10-09T00:00:00Z,Scheduled,CLE,CWS,0,800048,Parker Messick,696146,Hagen Smith,
+2026-10-08,849832,2026-10-09T00:00:00Z,Scheduled,CWS,CLE,1,696146,Hagen Smith,800048,Parker Messick,
