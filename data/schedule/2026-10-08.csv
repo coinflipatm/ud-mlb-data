@@ -1,3 +1,3 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-08,849832,2026-10-09T00:00:00Z,Scheduled,CLE,CWS,0,800048,Parker Messick,696146,Hagen Smith,
-2026-10-08,849832,2026-10-09T00:00:00Z,Scheduled,CWS,CLE,1,696146,Hagen Smith,800048,Parker Messick,
+2026-10-08,849832,2026-10-09T00:00:00Z,Pre-Game,CLE,CWS,0,800048,Parker Messick,696146,Hagen Smith,1:Steven Kwan(CF) | 2:José Ramírez(3B) | 3:Chase DeLauter(RF) | 4:Jo Adell(DH) | 5:Nathaniel Lowe(1B) | 6:Angel Martínez(LF) | 7:Travis Bazzana(2B) | 8:Austin Hedges(C) | 9:Brayan Rocchio(SS)
+2026-10-08,849832,2026-10-09T00:00:00Z,Pre-Game,CWS,CLE,1,696146,Hagen Smith,800048,Parker Messick,1:Chase Meidroth(2B) | 2:Randal Grichuk(LF) | 3:Miguel Vargas(3B) | 4:Munetaka Murakami(1B) | 5:Tommy Pham(DH) | 6:Brenton Doyle(CF) | 7:Kyle Teel(C) | 8:Braden Montgomery(RF) | 9:Colson Montgomery(SS)
