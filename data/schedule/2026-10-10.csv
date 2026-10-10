@@ -1,3 +1,3 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-10,849831,2026-10-11T00:00:00Z,Scheduled,CWS,CLE,0,680732,Sean Burke,668909,Gavin Williams,
-2026-10-10,849831,2026-10-11T00:00:00Z,Scheduled,CLE,CWS,1,668909,Gavin Williams,680732,Sean Burke,
+2026-10-10,849831,2026-10-11T00:00:00Z,Pre-Game,CWS,CLE,0,680732,Sean Burke,668909,Gavin Williams,1:Sam Antonacci(LF) | 2:Kyle Teel(C) | 3:Miguel Vargas(3B) | 4:Munetaka Murakami(1B) | 5:Andrew Benintendi(DH) | 6:Tristan Peters(RF) | 7:Chase Meidroth(2B) | 8:Colson Montgomery(SS) | 9:Brenton Doyle(CF)
+2026-10-10,849831,2026-10-11T00:00:00Z,Pre-Game,CLE,CWS,1,668909,Gavin Williams,680732,Sean Burke,1:Steven Kwan(LF) | 2:José Ramírez(3B) | 3:Chase DeLauter(RF) | 4:Jo Adell(DH) | 5:Nathaniel Lowe(1B) | 6:Travis Bazzana(2B) | 7:Patrick Bailey(C) | 8:Petey Halpin(CF) | 9:Brayan Rocchio(SS)
