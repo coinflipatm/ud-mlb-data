@@ -1,0 +1,5 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-12,849812,2026-10-12T21:00:00Z,Scheduled,LAD,MIL,0,808967,Yoshinobu Yamamoto,701656,Logan Henderson,
+2026-10-12,849812,2026-10-12T21:00:00Z,Scheduled,MIL,LAD,1,701656,Logan Henderson,808967,Yoshinobu Yamamoto,
+2026-10-12,849820,2026-10-13T00:00:00Z,Scheduled,CLE,TB,0,656492,Foster Griffin,656876,Drew Rasmussen,
+2026-10-12,849820,2026-10-13T00:00:00Z,Scheduled,TB,CLE,1,656876,Drew Rasmussen,656492,Foster Griffin,
