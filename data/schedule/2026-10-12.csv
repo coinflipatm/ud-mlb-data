@@ -1,5 +1,5 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-12,849812,2026-10-12T21:00:00Z,Scheduled,LAD,MIL,0,808967,Yoshinobu Yamamoto,701656,Logan Henderson,
-2026-10-12,849812,2026-10-12T21:00:00Z,Scheduled,MIL,LAD,1,701656,Logan Henderson,808967,Yoshinobu Yamamoto,
-2026-10-12,849820,2026-10-13T00:00:00Z,Scheduled,CLE,TB,0,656492,Foster Griffin,656876,Drew Rasmussen,
-2026-10-12,849820,2026-10-13T00:00:00Z,Scheduled,TB,CLE,1,656876,Drew Rasmussen,656492,Foster Griffin,
+2026-10-12,849812,2026-10-12T21:00:00Z,In Progress,LAD,MIL,0,808967,Yoshinobu Yamamoto,701656,Logan Henderson,1:Mookie Betts(SS) | 2:Freddie Freeman(1B) | 3:Teoscar Hernández(LF) | 4:Shohei Ohtani(DH) | 5:Will Smith(C) | 6:Max Muncy(3B) | 7:Andy Pages(CF) | 8:Kyle Tucker(RF) | 9:Tommy Edman(2B)
+2026-10-12,849812,2026-10-12T21:00:00Z,In Progress,MIL,LAD,1,701656,Logan Henderson,808967,Yoshinobu Yamamoto,1:Jackson Chourio(LF) | 2:Brice Turang(2B) | 3:William Contreras(C) | 4:Jake Bauers(1B) | 5:Christian Yelich(DH) | 6:Garrett Mitchell(CF) | 7:Cooper Pratt(SS) | 8:Sal Frelick(RF) | 9:David Hamilton(3B)
+2026-10-12,849820,2026-10-13T00:00:00Z,Pre-Game,CLE,TB,0,656492,Foster Griffin,656876,Drew Rasmussen,1:Steven Kwan(LF) | 2:José Ramírez(3B) | 3:Chase DeLauter(RF) | 4:Jo Adell(DH) | 5:Nathaniel Lowe(1B) | 6:Travis Bazzana(2B) | 7:Patrick Bailey(C) | 8:Petey Halpin(CF) | 9:Brayan Rocchio(SS)
+2026-10-12,849820,2026-10-13T00:00:00Z,Pre-Game,TB,CLE,1,656876,Drew Rasmussen,656492,Foster Griffin,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Ryan Vilade(LF) | 5:Victor Mesa Jr.(RF) | 6:Jonny DeLuca(CF) | 7:Ben Williamson(2B) | 8:Taylor Walls(SS) | 9:Nick Fortes(C)
