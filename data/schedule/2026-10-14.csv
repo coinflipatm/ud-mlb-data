@@ -1,3 +1,3 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-14,849811,2026-10-15T00:00:00Z,Scheduled,MIL,LAD,0,688107,Robert Gasser,605483,Blake Snell,
-2026-10-14,849811,2026-10-15T00:00:00Z,Scheduled,LAD,MIL,1,605483,Blake Snell,688107,Robert Gasser,
+2026-10-14,849811,2026-10-15T00:00:00Z,Pre-Game,MIL,LAD,0,688107,Robert Gasser,605483,Blake Snell,1:Jackson Chourio(LF) | 2:Brice Turang(2B) | 3:William Contreras(C) | 4:Andrew Vaughn(DH) | 5:Jake Bauers(1B) | 6:Garrett Mitchell(CF) | 7:Cooper Pratt(SS) | 8:Luis Lara(RF) | 9:Joey Ortiz(3B)
+2026-10-14,849811,2026-10-15T00:00:00Z,Pre-Game,LAD,MIL,1,605483,Blake Snell,688107,Robert Gasser,1:Mookie Betts(SS) | 2:Freddie Freeman(1B) | 3:Teoscar Hernández(LF) | 4:Kyle Tucker(RF) | 5:Andy Pages(CF) | 6:Shohei Ohtani(DH) | 7:Will Smith(C) | 8:Miguel Rojas(3B) | 9:Tommy Edman(2B)
