@@ -1,5 +1,5 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-15,849818,2026-10-15T17:00:00Z,Scheduled,TB,CLE,0,643377,Griffin Jax,668909,Gavin Williams,
-2026-10-15,849818,2026-10-15T17:00:00Z,Scheduled,CLE,TB,1,668909,Gavin Williams,643377,Griffin Jax,
-2026-10-15,849810,2026-10-16T00:00:00Z,Scheduled,MIL,LAD,0,,,607192,Tyler Glasnow,
-2026-10-15,849810,2026-10-16T00:00:00Z,Scheduled,LAD,MIL,1,607192,Tyler Glasnow,,,
+2026-10-15,849818,2026-10-15T17:00:00Z,Final,TB,CLE,0,643377,Griffin Jax,668909,Gavin Williams,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Victor Mesa(RF) | 5:Chandler Simpson(LF) | 6:Liam Hicks(C) | 7:Jonny DeLuca(CF) | 8:Richie Palacios(2B) | 9:Taylor Walls(SS)
+2026-10-15,849818,2026-10-15T17:00:00Z,Final,CLE,TB,1,668909,Gavin Williams,643377,Griffin Jax,1:Steven Kwan(LF) | 2:José Ramírez(3B) | 3:Chase DeLauter(RF) | 4:Jo Adell(DH) | 5:Nathaniel Lowe(1B) | 6:Travis Bazzana(2B) | 7:Patrick Bailey(C) | 8:Petey Halpin(CF) | 9:Brayan Rocchio(SS)
+2026-10-15,849810,2026-10-16T00:00:00Z,Pre-Game,MIL,LAD,0,675660,Shane Drohan,607192,Tyler Glasnow,1:Jackson Chourio(LF) | 2:Brice Turang(2B) | 3:William Contreras(C) | 4:Jake Bauers(1B) | 5:Christian Yelich(DH) | 6:Garrett Mitchell(CF) | 7:Cooper Pratt(SS) | 8:Sal Frelick(RF) | 9:David Hamilton(3B)
+2026-10-15,849810,2026-10-16T00:00:00Z,Pre-Game,LAD,MIL,1,607192,Tyler Glasnow,675660,Shane Drohan,1:Shohei Ohtani(DH) | 2:Mookie Betts(SS) | 3:Freddie Freeman(1B) | 4:Will Smith(C) | 5:Kyle Tucker(RF) | 6:Teoscar Hernández(LF) | 7:Miguel Rojas(2B) | 8:Andy Pages(CF) | 9:Enrique Hernández(3B)
