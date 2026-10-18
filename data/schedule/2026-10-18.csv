@@ -1,0 +1,3 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-18,849817,2026-10-18T21:08:00Z,Scheduled,TB,CLE,0,656876,Drew Rasmussen,800048,Parker Messick,
+2026-10-18,849817,2026-10-18T21:08:00Z,Scheduled,CLE,TB,1,800048,Parker Messick,656876,Drew Rasmussen,
