@@ -1,0 +1,3 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-23,849805,2026-10-24T00:00:00Z,Scheduled,TB,MIL,0,607259,Nick Martinez,694819,Jacob Misiorowski,
+2026-10-23,849805,2026-10-24T00:00:00Z,Scheduled,MIL,TB,1,694819,Jacob Misiorowski,607259,Nick Martinez,
