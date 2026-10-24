@@ -1,0 +1,3 @@
+date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
+2026-10-24,849802,2026-10-25T00:00:00Z,Scheduled,TB,MIL,0,656876,Drew Rasmussen,701656,Logan Henderson,
+2026-10-24,849802,2026-10-25T00:00:00Z,Scheduled,MIL,TB,1,701656,Logan Henderson,656876,Drew Rasmussen,
