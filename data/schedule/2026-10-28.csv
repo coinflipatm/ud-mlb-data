@@ -1,3 +1,3 @@
 date,game_pk,time_utc,status,team,opp,home,prob_sp_id,prob_sp,opp_sp_id,opp_sp,lineup
-2026-10-28,849799,2026-10-29T00:00:00Z,Scheduled,MIL,TB,0,694819,Jacob Misiorowski,,,
-2026-10-28,849799,2026-10-29T00:00:00Z,Scheduled,TB,MIL,1,,,694819,Jacob Misiorowski,
+2026-10-28,849799,2026-10-29T00:00:00Z,Pre-Game,MIL,TB,0,694819,Jacob Misiorowski,656876,Drew Rasmussen,1:Jackson Chourio(LF) | 2:Jake Bauers(1B) | 3:Christian Yelich(DH) | 4:William Contreras(C) | 5:Brice Turang(2B) | 6:Sal Frelick(RF) | 7:Cooper Pratt(SS) | 8:Garrett Mitchell(CF) | 9:David Hamilton(3B)
+2026-10-28,849799,2026-10-29T00:00:00Z,Pre-Game,TB,MIL,1,656876,Drew Rasmussen,694819,Jacob Misiorowski,1:Yandy Díaz(DH) | 2:Jonathan Aranda(1B) | 3:Junior Caminero(3B) | 4:Liam Hicks(C) | 5:Jonny DeLuca(CF) | 6:Chandler Simpson(LF) | 7:Ben Williamson(2B) | 8:Ryan Vilade(RF) | 9:Taylor Walls(SS)
